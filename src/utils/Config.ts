@@ -16,7 +16,7 @@ class ConfigController {
     }
   }
 
-  static getSystemGroupList(): SystemGroupView[] {
+  static getSystemGroupViewList(): SystemGroupView[] {
     const systemGroupList = SYSTEM_GROUP_LIST.map(systemGroup => this.getSystemGroupView(systemGroup.id))
     return systemGroupList.filter(el => el) as SystemGroupView[]
   }
@@ -36,7 +36,7 @@ class ConfigController {
     }
   }
 
-  static getModificationGroupList(system: ID): ModificationGroupView[] {
+  static getModificationGroupViewList(system: ID): ModificationGroupView[] {
     const modificationGroupList = MODIFICATION_GROUP_LIST.filter(modificationGroup => modificationGroup.system === system)
     const modificationGroupViewList = modificationGroupList.map(modificationGroup => this.getModificationGroupView(modificationGroup.id))
 

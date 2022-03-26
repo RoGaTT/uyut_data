@@ -1,4 +1,7 @@
 import ConfigController from "./utils/Config";
 
-const systemGroupList = ConfigController.getSystemGroupList()
-console.log(systemGroupList[0].items[0]);
+const systemGroupViewList = ConfigController.getSystemGroupViewList()
+console.log(systemGroupViewList[0].items[0]);
+
+const modificationGroupViewList = ConfigController.getSystemGroupViewList()
+console.log(modificationGroupViewList[0].items);
