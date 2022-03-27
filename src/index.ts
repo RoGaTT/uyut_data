@@ -1,7 +1,5 @@
-import ConfigController from "./utils/Config";
+// import GoogleSpreadSheets from "./utils/GoogleSpreedSheets";
 
-const systemGroupViewList = ConfigController.getSystemGroupViewList()
-console.log(systemGroupViewList[0].items[0]);
+// const googleSpreadSheets = new GoogleSpreadSheets()
 
-const modificationGroupViewList = ConfigController.getSystemGroupViewList()
-console.log(modificationGroupViewList[0].items);
+import './test'

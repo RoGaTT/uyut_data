@@ -1,6 +1,10 @@
-import { MODIFICATION_GROUP_LIST, MODIFICATION_LIST, SYSTEM_GROUP_LIST, SYSTEM_LIST } from "../data";
-import { ID, Modification, System } from "../types";
-import { ModificationGroupView, SystemGroupView } from "../views";
+import { MODIFICATION_LIST } from "../data/modification";
+import { MODIFICATION_GROUP_LIST } from "../data/modification_group";
+import { SYSTEM_LIST } from "../data/system";
+import { SYSTEM_ELEMENT_COLOR_LIST, SYSTEM_ELEMENT_LIST } from "../data/system_element";
+import { SYSTEM_GROUP_LIST } from "../data/system_group";
+import { ID, Modification, System, SystemElement, SystemElementColor } from "../types";
+import { ModificationGroupView, SystemElementColorView, SystemElementView, SystemGroupView } from "../views";
 
 class ConfigController {
   /**
@@ -25,11 +29,10 @@ class ConfigController {
    *  Группа модификаторов
    */
   static getModificationGroupView(modificationGroupId: ID): ModificationGroupView | undefined {
-    const modificationGroup = MODIFICATION_GROUP_LIST.find(modificationGroup => modificationGroup.system === modificationGroupId)
+    const modificationGroup = MODIFICATION_GROUP_LIST.find(modificationGroup => modificationGroup.id === modificationGroupId)
     if (!modificationGroup) return
 
     const modificationList: Modification[] = MODIFICATION_LIST.filter(modification => modification.modificationGroup === modificationGroup.id)
-
     return {
       ...modificationGroup,
       items: modificationList
@@ -41,6 +44,36 @@ class ConfigController {
     const modificationGroupViewList = modificationGroupList.map(modificationGroup => this.getModificationGroupView(modificationGroup.id))
 
     return modificationGroupViewList.filter(el => el) as ModificationGroupView[]
+  }
+
+
+  /**
+   *  Элементы системы
+   */
+  static getSystemElementViewList(system: ID): SystemElementView[] {
+    const systemElementList = SYSTEM_ELEMENT_LIST.filter(systemElement => systemElement.system === system)
+    const systemElementViewList = systemElementList.map(systemElement => this.getSystemElementView(systemElement.id))
+    return systemElementViewList.filter(el => el) as SystemElementView[]
+  }
+
+
+  static getSystemElementView(systemElementId: ID): SystemElementView | undefined {
+    const systemElement = SYSTEM_ELEMENT_LIST.find(systemElement => systemElement.id === systemElementId)
+    if (!systemElement) return
+    const systemElementColorList = systemElement.colorList.map(el => ({
+      mainImage: el.mainImage,
+      data: this.getSystemElementColor(el.id)
+    })) 
+    const data: SystemElementView = {
+      ...systemElement,
+      colorList: systemElementColorList.filter(el => el.data) as SystemElementColorView[]
+    }
+    return data
+  }
+
+  static getSystemElementColor(systemElementColorId: ID): SystemElementColor | undefined {
+    const systemElementColor = SYSTEM_ELEMENT_COLOR_LIST.find(systemElementColor => systemElementColor.id === systemElementColorId)
+    return systemElementColor    
   }
 }
 

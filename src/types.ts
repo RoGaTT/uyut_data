@@ -40,6 +40,8 @@ export type System = {
   defaultWeighting: ID
   // Список ID утяжелителей привязанных к системе
   weightingList: ID[]
+  // Список ID фиксаций привязанных к системе
+  fixationList: ID[]
 }
 
 
@@ -66,6 +68,8 @@ export type SystemElement = {
     title: string
     options: string[]
   }
+  // Изображение для конструктора
+  mainImage?: ImageUrl
 }
 
 // Цвет элемента системы, например цвет Ручки (3 этап)
@@ -115,6 +119,8 @@ export type Modification = {
   }>
   // Изображение привязанное к системе, отображается справа в блоке группы модификаторов например в Размеры рулонной шторы
   image?: ImageUrl
+  // Изображение для конструктора
+  mainImage?: ImageUrl
 }
 
 // Ткани для штор (3 этап)
@@ -137,14 +143,14 @@ export type Fabric = {
   // Картинка для конструктора зависящая от системы
   mainImage: ImageUrl
 } & (
-    {
-      // HEX цвет, если нет картинки
-      color: string
-    } | {
-      // Картинка ткани, если нету цвета
-      image: ImageUrl
-    }
-  )
+  {
+    // HEX цвет, если нет картинки
+    color: string
+  } | {
+    // Картинка ткани, если нету цвета
+    image: ImageUrl
+  }
+)
 
 // Утяжелитель (4 этап)
 export type Weighting = {
@@ -185,8 +191,8 @@ export type Fixation = {
   title: string
   // Картинка фиксации
   image: ImageUrl
-  // Дефолтное значение, добавляет постфикс ("базовая комплектация")
-  basicEquipment: ID,
+  // Дефолтный цвет, добавляет постфикс ("базовая комплектация")
+  isBasicEquipment?: boolean,
   // Список цветов доступных для данной фиксации
   colorList: ID[]
   // Кастомные поля
@@ -204,11 +210,11 @@ export type FixationColor = {
   // Название
   title: string
 } & (
-    {
-      // HEX цвет, если нет картинки
-      color: string
-    } | {
-      // Картинка, если нету цвета
-      image: ImageUrl
-    }
-  )
+  {
+    // HEX цвет, если нет картинки
+    color: string
+  } | {
+    // Картинка, если нету цвета
+    image: ImageUrl
+  }
+)
