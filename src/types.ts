@@ -20,8 +20,8 @@ export type System = {
   title: string,
   // Картинка системы подставляющайся при выборе в конструкторе
   image: ImageUrl,
-  // Картинка для конструктора зависящая от системы
-  mainImage: ImageUrl
+  // // Картинка для конструктора зависящая от системы
+  // mainImage: ImageUrl
   // PDF если есть
   pdf?: ImageUrl,
   // Ширина от, см
@@ -36,12 +36,12 @@ export type System = {
   diameter: number,
   // Артикул
   article: string,
-  // ID дефолтного утяжелителя (должен быть в weightingList самым первым)
-  defaultWeighting: ID
-  // Список ID утяжелителей привязанных к системе
-  weightingList: ID[]
+  // // ID дефолтного утяжелителя (должен быть в weightingList самым первым)
+  // defaultWeighting: ID
+  // // Список ID утяжелителей привязанных к системе
+  // weightingList: ID[]
   // Список ID фиксаций привязанных к системе
-  fixationList: ID[]
+  // fixationList: ID[]
 }
 
 
@@ -50,26 +50,26 @@ export type SystemElement = {
   id: ID
   // Название элемента, например Ручка
   title: string
-  // Название блока когда идет выбор цвета, например Цвет ручки
-  colorTitle: string
   // ID системы к которой привязан элемент
   system: ID
   // Список доступных цветов для данного элемента
   colorList: Array<{
-    id: ID,
-    mainImage: ImageUrl,
+    title: ImageUrl,
+    leftMainImage?: ImageUrl,
+    rightMainImage?: ImageUrl
+    // Металлический ли цвет
+    isMetallic?: boolean
+    // Пластиковый ли цвет
+    isPlastic?: boolean
+    image: string
   }>
   // Для механизмов (от их цвета зависят цвета всего остального)
   isMain?: boolean
-  // Название для цвета базовой комплектации, например Белый (базовая комплектация)
-  basicColorTitle: string
   // К группе может быть привязан селект, например Высота управления
   select?: {
     title: string
     options: string[]
   }
-  // Изображение для конструктора
-  mainImage?: ImageUrl
 }
 
 // Цвет элемента системы, например цвет Ручки (3 этап)
@@ -79,10 +79,7 @@ export type SystemElementColor = {
   title: string
   // Картинка для конструктора зависящая от системы
   mainImage: ImageUrl
-  // Металлический ли цвет
-  isMetallic?: boolean
-  // Пластиковый ли цвет
-  isPlastic?: boolean
+  
 } & (
     {
       // HEX цвет, если нет картинки
@@ -121,6 +118,7 @@ export type Modification = {
   image?: ImageUrl
   // Изображение для конструктора
   mainImage?: ImageUrl
+  direction?: 'right' | 'left'
 }
 
 // Ткани для штор (3 этап)
@@ -153,68 +151,17 @@ export type Fabric = {
 )
 
 // Утяжелитель (4 этап)
-export type Weighting = {
+export type ExtraSystemElement = {
   id: ID
-  // Название утяжелителя
+  // Название элемента
   title: string
-  // Картинка утяжелителя
+  // Картинка элемента
   image: ImageUrl
-  // Дефолтное значение, добавляет постфикс ("базовая комплектация")
-  basicEquipment: ID,
-  // Список цветов доступных для данного утяжелителя
-  colorList: ID[]
-}
-
-
-// Цвет фиксатора (4 этап)
-export type WeightingColor = {
-  id: ID
-  // Название
-  title: string
-  // Картинка для конструктора зависящая от системы
-  mainImage: ImageUrl
-} & (
-    {
-      // HEX цвет, если нет картинки
-      color: string
-    } | {
-      // Картинка, если нету цвета
-      image: ImageUrl
-    }
-  )
-
-
-// Фиксации (4 этап)
-export type Fixation = {
-  id: ID
-  // Название фиксации
-  title: string
-  // Картинка фиксации
-  image: ImageUrl
-  // Дефолтный цвет, добавляет постфикс ("базовая комплектация")
-  isBasicEquipment?: boolean,
-  // Список цветов доступных для данной фиксации
-  colorList: ID[]
-  // Кастомные поля
-  fields?: Array<{
+  // Список цветов доступных для данного элемента
+  colorList: Array<{
+    image: ImageUrl,
     title: string
-    defaultValue?: string
-    placeholder: string
+    mainImage?: ImageUrl
   }>
+  type: 'weighting' | 'fixation',
 }
-
-
-// Цвет фиксатора (4 этап)
-export type FixationColor = {
-  id: ID
-  // Название
-  title: string
-} & (
-  {
-    // HEX цвет, если нет картинки
-    color: string
-  } | {
-    // Картинка, если нету цвета
-    image: ImageUrl
-  }
-)
