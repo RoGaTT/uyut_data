@@ -61,13 +61,14 @@ class ConfigController {
   static getSystemGroupViewById(id: string): SystemGroupView | undefined {
     const item = this.getSystemGroupById(id)
     if (!item) return undefined
+
     return {
       ...item,
-      items: data.SYSTEM_LIST.filter(el => el.id === id).map(el => this.getSystemViewById(el.id)) as SystemView[]
+      items: data.SYSTEM_LIST.filter(el => el.systemGroup === id).map(el => this.getSystemViewById(el.id)) as SystemView[]
     }
   }
   static getSystemGroupViewList(): SystemGroupView[] {
-    const buffer = data.SYSTEM_ELEMENT_LIST.map(el => this.getSystemGroupViewById(el.id))
+    const buffer = data.SYSTEM_GROUP_LIST.map(el => this.getSystemGroupViewById(el.id))
     return buffer.filter(el => el) as SystemGroupView[]
   }
 
