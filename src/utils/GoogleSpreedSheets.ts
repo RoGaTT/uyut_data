@@ -334,7 +334,7 @@ class GoogleSpreadSheets {
       const systemElement = systemElements.find(el => el?.id === this.generateSystemElementId(item[0], item[1], item[2]))
       if (!systemElement) return
 
-      if (!item[18] || !item[19] || !item[4] || !item[6]) return
+      // if (!item[18] || !item[19] || !item[4] || !item[6]) return
       systemElement.colorList.push({
         title: item[18],
         image: this.generateImageUrl(item[19]),
