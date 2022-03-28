@@ -6,6 +6,7 @@ export type SystemGroupView = SystemGroup & {
 
 export type SystemView = System & {
   extraSystemElements: ExtraSystemElement[]
+  systemElements: SystemElement[]
 }
 
 export type ModificationGroupView = ModificationGroup & {
