@@ -1,6 +1,6 @@
 import { google, sheets_v4 } from "googleapis";
 import { Compute, GoogleAuth, JWT, UserRefreshClient } from "googleapis-common";
-import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemElementColor, SystemGroup } from "../types";
+import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemGroup } from "../types";
 import base64 from 'base-64'
 import utf8 from 'utf8'
 import fs from 'fs'
@@ -335,7 +335,7 @@ class GoogleSpreadSheets {
       if (!systemElement) return
       systemElement.colorList.push({
         title: item[18],
-        image: item[19],
+        image: this.generateImageUrl(item[19]),
         isPlastic: item[20].toLowerCase().includes('пластик'),
         isMetallic: item[20].toLowerCase().includes('металлич'),
         leftMainImage: this.generateImageUrl(item[4]),
@@ -380,6 +380,7 @@ class GoogleSpreadSheets {
         title: item[3],
         colorList: [],
         image: this.generateImageUrl(item[6]),
+        system: system.id,
         type: item[2].toLowerCase().includes('утяжелитель') ? 'weighting' : 'fixation'
       }
 

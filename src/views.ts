@@ -1,14 +1,14 @@
-import { Modification, ModificationGroup, System, SystemElement, SystemElementColor, SystemGroup } from "./types";
+import { ExtraSystemElement, Modification, ModificationGroup, System, SystemElement, SystemGroup } from "./types";
 
 export type SystemGroupView = SystemGroup & {
   items: System[]
 }
 
-export type ModificationGroupView = ModificationGroup & {
-  items: Modification[]
+export type SystemView = System & {
+  extraSystemElements: ExtraSystemElement[]
 }
 
-export type SystemElementColorView = {
-  mainImage: string;
-  data: SystemElementColor
+export type ModificationGroupView = ModificationGroup & {
+  items: Modification[]
+  extraSystemElements: ExtraSystemElement[]
 }

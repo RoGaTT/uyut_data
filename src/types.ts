@@ -74,24 +74,6 @@ export type SystemElement = {
   }
 }
 
-// Цвет элемента системы, например цвет Ручки (3 этап)
-export type SystemElementColor = {
-  id: ID
-  // Название
-  title: string
-  // Картинка для конструктора зависящая от системы
-  mainImage: ImageUrl
-  
-} & (
-    {
-      // HEX цвет, если нет картинки
-      color: string
-    } | {
-      // Картинка, если нету цвета
-      image: ImageUrl
-    }
-  )
-
 // Группа модификаторов (2 этап)
 export type ModificationGroup = {
   id: ID
@@ -161,5 +143,6 @@ export type ExtraSystemElement = {
     title: string
     mainImage?: ImageUrl
   }>
+  system: ID
   type: 'weighting' | 'fixation',
 }

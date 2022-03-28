@@ -1,6 +1,6 @@
 import fetchedData from '../../metadata/data.json'
 import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemGroup } from '../types'
-import { SystemGroupView, ModificationGroupView } from '../views'
+import { SystemGroupView, ModificationGroupView, SystemView } from '../views'
 
 type FetchedData = {
   SYSTEM_GROUP_LIST: SystemGroup[],
@@ -63,7 +63,21 @@ class ConfigController {
     if (!item) return undefined
     return {
       ...item,
-      items: data.SYSTEM_LIST.filter(el => el.id === id)
+      items: data.SYSTEM_LIST.filter(el => el.id === id),
+    }
+  }
+  static getSystemGroupViewList(): SystemGroupView[] {
+    const buffer = data.SYSTEM_ELEMENT_LIST.map(el => this.getSystemGroupViewById(el.id))
+    return buffer.filter(el => el) as SystemGroupView[]
+  }
+
+  static getSystemViewById(id: string): SystemView | undefined {
+    const item = this.getSystemById(id)
+    if (!item) return undefined
+
+    return {
+      ...item,
+      extraSystemElements: data.EXTRA_SYSTEM_ELEMENT_LIST.filter(el => el.system === item.id)
     }
   }
 
@@ -75,12 +89,6 @@ class ConfigController {
     const item = this.getSystemElementById(id)
     if (!item) return undefined
     return item
-  }
-  static getSystemViewById(id: string): System | undefined {
-    const item = this.getSystemGroupById(id)
-    if (!item) return undefined
-
-    return 
   }
   // static getSystemElementViewById(id: string): SystemElementView | undefined {
   //   return 
