@@ -1,7 +1,7 @@
 import { ExtraSystemElement, Modification, ModificationGroup, System, SystemElement, SystemGroup } from "./types";
 
 export type SystemGroupView = SystemGroup & {
-  items: System[]
+  items: SystemView[]
 }
 
 export type SystemView = System & {

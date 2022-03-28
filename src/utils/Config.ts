@@ -63,7 +63,7 @@ class ConfigController {
     if (!item) return undefined
     return {
       ...item,
-      items: data.SYSTEM_LIST.filter(el => el.id === id),
+      items: data.SYSTEM_LIST.filter(el => el.id === id).map(el => this.getSystemViewById(el.id)) as SystemView[]
     }
   }
   static getSystemGroupViewList(): SystemGroupView[] {
