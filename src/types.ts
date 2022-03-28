@@ -8,6 +8,8 @@ export type SystemGroup = {
   title: string
   // Картинка группы систем
   image: ImageUrl
+  // Коллекция тканей
+  fabricCollectionType: 'classic' | 'day_night'
 }
 
 
@@ -124,6 +126,7 @@ export type Modification = {
 // Ткани для штор (3 этап)
 export type Fabric = {
   id: ID
+  innerID: string
   // Название
   title: string
   // Артикул
@@ -137,18 +140,13 @@ export type Fabric = {
   // Высота до, см
   heightTo: number
   // Система к которой привязана ткань
-  system: ID
+  systemGroup: ID
+  fabricGroupType: 'classic' | 'day_night'
   // Картинка для конструктора зависящая от системы
   mainImage: ImageUrl
-} & (
-  {
-    // HEX цвет, если нет картинки
-    color: string
-  } | {
-    // Картинка ткани, если нету цвета
-    image: ImageUrl
-  }
-)
+  // Картинка ткани, если нету цвета
+  image: ImageUrl
+}
 
 // Утяжелитель (4 этап)
 export type ExtraSystemElement = {

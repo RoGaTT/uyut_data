@@ -1,6 +1,6 @@
 import { google, sheets_v4 } from "googleapis";
 import { Compute, GoogleAuth, JWT, UserRefreshClient } from "googleapis-common";
-import { ExtraSystemElement, Modification, ModificationGroup, System, SystemElement, SystemElementColor, SystemGroup } from "../types";
+import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemElementColor, SystemGroup } from "../types";
 import base64 from 'base-64'
 import utf8 from 'utf8'
 
@@ -14,6 +14,8 @@ class GoogleSpreadSheets {
   modificationGroups: ModificationGroup[] = []
   modifications: Modification[] = []
   extraSystemElements: ExtraSystemElement[] = []
+  classicFabrics: Fabric[] = []
+  dayNightFabrics: Fabric[] = []
 
   constructor() {
     this.auth = new google.auth.GoogleAuth({
@@ -72,6 +74,7 @@ class GoogleSpreadSheets {
     const systemGroups: SystemGroup[] = data.data.values.map((item) => ({
       id: this.generateSystemGroupId(item[0]),
       title: item[0],
+      fabricCollectionType: item[0].toLocaleLowerCase().includes('день') ? 'day_night' : 'classic',
       image: `https://getfile.dokpub.com/yandex/get/${item[1]}`
     }))
 
@@ -252,7 +255,6 @@ class GoogleSpreadSheets {
 
     systemElements = systemElements.filter(el => el)
     data.data.values.forEach(item => {
-      console.log(item[18])
       if (!item[18]) return
       const systemElement = systemElements.find(el => el?.id === this.generateSystemElementId(item[0], item[1], item[2]))
       if (!systemElement) return
@@ -312,7 +314,6 @@ class GoogleSpreadSheets {
 
     extraSystemElements = extraSystemElements.filter(el => el)
     data.data.values.forEach(item => {
-      console.log(item[18])
       if (!item[18]) return
       const extraSystemElement = extraSystemElements.find(el => el?.id === this.generateExtraSystemElementId(item[0], item[1], item[2], item[3]))
       if (!extraSystemElement) return
@@ -326,6 +327,89 @@ class GoogleSpreadSheets {
     return extraSystemElements as ExtraSystemElement[]
   }
 
+  generateFabricId(systemTitle: string) {
+    return this.generateBase64Id(`${systemTitle}`)
+  }
+  getFabricById(id: string) {
+    return this.systemGroups.find(el => el.id === id)
+  }
+  async getFabrics(): Promise<{
+    classic: Fabric[],
+    dayNight: Fabric[]
+  }> {
+    const classicFabricData = await this.googleSheetsInstance?.spreadsheets.values.get(this.getAuthObject({
+      sheetName: 'Ткани классика',
+      fromLetter: 'B',
+      startNumber: 4,
+      toLetter: 'S',
+      lastRowNumber: 412,
+    }))
+    if (!classicFabricData || !classicFabricData.data.values) return {
+      classic: [],
+      dayNight: []
+    }
+
+    // console.log(classicFabricData.data.values.slice(0, 20))
+
+    let classicFabrics: Fabric[] = []
+    for (let i = 0; i < this.systemGroups.length; i++) {
+      const systemGroup = this.systemGroups[i]
+      if (systemGroup.fabricCollectionType === 'classic') {
+        classicFabrics = classicFabricData.data.values.map((item) => ({
+          id: this.generateFabricId(item[2]),
+          article: item[1],
+          heightFrom: 0,
+          heightTo: 0,
+          innerID: item[0],
+          title: item[2],
+          mainImage: this.generateImageUrl(item[9]),
+          systemGroup: systemGroup.id,
+          widthFrom: 0,
+          widthTo: +item[6] || 0,
+          fabricGroupType: 'classic',
+          image: this.generateImageUrl(item[7])
+        }))
+      }
+    }
+
+    const dayNightFabricData = await this.googleSheetsInstance?.spreadsheets.values.get(this.getAuthObject({
+      sheetName: 'Ткани день/ночь',
+      fromLetter: 'B',
+      startNumber: 4,
+      toLetter: 'S',
+      lastRowNumber: 412,
+    }))
+    if (!dayNightFabricData || !dayNightFabricData.data.values) return {
+      classic: [],
+      dayNight: []
+    }
+
+    let dayNightFabrics: Fabric[] = []
+    for (let i = 0; i < this.systemGroups.length; i++) {
+      const systemGroup = this.systemGroups[i]
+      if (systemGroup.fabricCollectionType === 'day_night') {
+        dayNightFabrics = dayNightFabricData.data.values.map((item) => ({
+          id: this.generateFabricId(item[2]),
+          article: item[1],
+          heightFrom: 0,
+          heightTo: 0,
+          innerID: item[0],
+          title: item[2],
+          mainImage: this.generateImageUrl(item[8]),
+          systemGroup: systemGroup.id,
+          widthFrom: 0,
+          widthTo: +item[5] || 0,
+          fabricGroupType: 'day_night',
+          image: this.generateImageUrl(item[6])
+        }))
+      }
+    }
+
+    return {
+      classic: classicFabrics,
+      dayNight: dayNightFabrics
+    }
+  }
 }
 
 export default GoogleSpreadSheets;
