@@ -14,7 +14,7 @@ const bootstrap = async () => {
   ConfigController.getSystemGroupById('dsa')
 
   const systemGroupViewList = ConfigController.getSystemGroupViewList()
-  // console.log(systemGroupViewList[0].items[0].systemElements);
+  console.log(systemGroupViewList[0].items);
 }
 
 bootstrap()
