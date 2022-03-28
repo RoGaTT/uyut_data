@@ -1,80 +1,98 @@
-import { MODIFICATION_LIST } from "../data/modification";
-import { MODIFICATION_GROUP_LIST } from "../data/modification_group";
-import { SYSTEM_LIST } from "../data/system";
-import { SYSTEM_ELEMENT_COLOR_LIST, SYSTEM_ELEMENT_LIST } from "../data/system_element";
-import { SYSTEM_GROUP_LIST } from "../data/system_group";
-import { ID, Modification, System, SystemElement, SystemElementColor } from "../types";
-import { ModificationGroupView, SystemElementColorView, SystemElementView, SystemGroupView } from "../views";
+import fetchedData from '../../metadata/data.json'
+import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemGroup } from '../types'
+import { SystemGroupView, ModificationGroupView } from '../views'
+
+type FetchedData = {
+  SYSTEM_GROUP_LIST: SystemGroup[],
+  SYSTEM_LIST: System[],
+  SYSTEM_ELEMENT_LIST: SystemElement[],
+  MODIFICATION_GROUP_LIST: ModificationGroup[],
+  MODIFICATION_LIST: Modification[],
+  EXTRA_SYSTEM_ELEMENT_LIST: ExtraSystemElement[],
+  FABRIC_LIST: Fabric[],
+}
+
+const data: FetchedData = fetchedData as unknown as  FetchedData 
 
 class ConfigController {
-  /**
-   *  Группа систем
-   */
-  static getSystemGroupView(id: ID): SystemGroupView | undefined {
-    const systemGroup = SYSTEM_GROUP_LIST.find(systemGroup => systemGroup.id === id)
-    if (!systemGroup) return
-    const systemList: System[] = SYSTEM_LIST.filter(system => system.systemGroup === id)
+  static getSystemGroupById(id: string) {
+    return data.SYSTEM_GROUP_LIST.find(el => el.id === id)
+  }
+  static getSystemGroupByIdList(idList: string[]) {
+    return idList.map(id => this.getSystemGroupById(id)).filter(el => el) as SystemGroup[]
+  }
+  static getSystemById(id: string) {
+    return data.SYSTEM_LIST.find(el => el.id === id)
+  }
+  static getSystemByIdList(idList: string[]) {
+    return idList.map(id => this.getSystemById(id)).filter(el => el) as System[]
+  }
+  static getSystemElementById(id: string) {
+    return data.SYSTEM_ELEMENT_LIST.find(el => el.id === id)
+  }
+  static getSystemElementByIdList(idList: string[]) {
+    return idList.map(id => this.getSystemElementById(id)).filter(el => el) as SystemElement[]
+  }
+  static getExtraSystemListById(id: string) {
+    return data.EXTRA_SYSTEM_ELEMENT_LIST.find(el => el.id === id)
+  }
+  static getExtraSystemListByIdList(idList: string[]) {
+    return idList.map(id => this.getExtraSystemListById(id)).filter(el => el) as ExtraSystemElement[]
+  }
+  static getModificationGroupById(id: string) {
+    return data.MODIFICATION_GROUP_LIST.find(el => el.id === id)
+  }
+  static getModificationGroupByIdList(idList: string[]) {
+    return idList.map(id => this.getModificationGroupById(id)).filter(el => el) as ModificationGroup[]
+  }
+  static getModificationById(id: string) {
+    return data.MODIFICATION_LIST.find(el => el.id === id)
+  }
+  static getModificationByIdList(idList: string[]) {
+    return idList.map(id => this.getModificationById(id)).filter(el => el) as Modification[]
+  }
+  static getFabricById(id: string) {
+    return data.FABRIC_LIST.find(el => el.id === id)
+  }
+  static getFabricByIdList(idList: string[]) {
+    return idList.map(id => this.getFabricById(id)).filter(el => el) as Fabric[]
+  }
+
+  static getSystemGroupViewById(id: string): SystemGroupView | undefined {
+    const item = this.getSystemGroupById(id)
+    if (!item) return undefined
     return {
-      ...systemGroup,
-      items: systemList
+      ...item,
+      items: data.SYSTEM_LIST.filter(el => el.id === id)
     }
   }
 
-  static getSystemGroupViewList(): SystemGroupView[] {
-    const systemGroupList = SYSTEM_GROUP_LIST.map(systemGroup => this.getSystemGroupView(systemGroup.id))
-    return systemGroupList.filter(el => el) as SystemGroupView[]
+  static getSystemElementViewById(id: string): SystemElement | undefined {
+    const item = this.getSystemElementById(id)
+    if (!item) return undefined
+    return item
   }
+  // static getSystemViewById(id: string): SystemView | undefined {
+  //   const item = this.getSystemGroupById(id)
+  //   if (!item) return undefined
 
-  /**
-   *  Группа модификаторов
-   */
-  static getModificationGroupView(modificationGroupId: ID): ModificationGroupView | undefined {
-    const modificationGroup = MODIFICATION_GROUP_LIST.find(modificationGroup => modificationGroup.id === modificationGroupId)
-    if (!modificationGroup) return
-
-    const modificationList: Modification[] = MODIFICATION_LIST.filter(modification => modification.modificationGroup === modificationGroup.id)
-    return {
-      ...modificationGroup,
-      items: modificationList
-    }
-  }
-
-  static getModificationGroupViewList(system: ID): ModificationGroupView[] {
-    const modificationGroupList = MODIFICATION_GROUP_LIST.filter(modificationGroup => modificationGroup.system === system)
-    const modificationGroupViewList = modificationGroupList.map(modificationGroup => this.getModificationGroupView(modificationGroup.id))
-
-    return modificationGroupViewList.filter(el => el) as ModificationGroupView[]
-  }
-
-
-  /**
-   *  Элементы системы
-   */
-  static getSystemElementViewList(system: ID): SystemElementView[] {
-    const systemElementList = SYSTEM_ELEMENT_LIST.filter(systemElement => systemElement.system === system)
-    const systemElementViewList = systemElementList.map(systemElement => this.getSystemElementView(systemElement.id))
-    return systemElementViewList.filter(el => el) as SystemElementView[]
-  }
-
-
-  static getSystemElementView(systemElementId: ID): SystemElementView | undefined {
-    const systemElement = SYSTEM_ELEMENT_LIST.find(systemElement => systemElement.id === systemElementId)
-    if (!systemElement) return
-    const systemElementColorList = systemElement.colorList.map(el => ({
-      mainImage: el.mainImage,
-      data: this.getSystemElementColor(el.id)
-    })) 
-    const data: SystemElementView = {
-      ...systemElement,
-      colorList: systemElementColorList.filter(el => el.data) as SystemElementColorView[]
-    }
-    return data
-  }
-
-  static getSystemElementColor(systemElementColorId: ID): SystemElementColor | undefined {
-    const systemElementColor = SYSTEM_ELEMENT_COLOR_LIST.find(systemElementColor => systemElementColor.id === systemElementColorId)
-    return systemElementColor    
-  }
+  //   return 
+  // }
+  // static getSystemElementViewById(id: string): SystemElementView | undefined {
+  //   return 
+  // }
+  // static getExtraSystemListViewById(id: string): ExtraSystemElementView | undefined {
+  //   return 
+  // }
+  // static getModificationGroupViewById(id: string): ModificationGroupView | undefined {
+  //   return 
+  // }
+  // static getModificationViewById(id: string): ModificationView | undefined {
+  //   return 
+  // }
+  // static getFabricViewById(id: string): FabricView | undefined {
+  //   return 
+  // }
 }
 
 export default ConfigController

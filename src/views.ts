@@ -8,13 +8,6 @@ export type ModificationGroupView = ModificationGroup & {
   items: Modification[]
 }
 
-export type SystemElementView = Omit<SystemElement, 'colorList'> & {
-  colorList: Array<{
-    mainImage: string;
-    data: SystemElementColor
-  }>
-}
-
 export type SystemElementColorView = {
   mainImage: string;
   data: SystemElementColor

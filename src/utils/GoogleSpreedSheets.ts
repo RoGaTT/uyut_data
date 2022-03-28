@@ -3,6 +3,7 @@ import { Compute, GoogleAuth, JWT, UserRefreshClient } from "googleapis-common";
 import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemElementColor, SystemGroup } from "../types";
 import base64 from 'base-64'
 import utf8 from 'utf8'
+import fs from 'fs'
 
 class GoogleSpreadSheets {
   private auth: GoogleAuth;
@@ -51,6 +52,81 @@ class GoogleSpreadSheets {
   async init() {
     const client = await this.auth.getClient()
     this.googleSheetsInstance = google.sheets({ version: "v4", auth: client });
+
+    this.systemGroups = await this.getSystemGroups();
+    // console.log(this.systemGroups)
+    this.systems = await this.getSystems()
+    // console.log(this.systems)
+    this.modificationGroups = await this.getModificationGroups()
+    // console.log(this.modificationGroups)
+    this.modifications = await this.getModifications()
+    // console.log(this.modificationGroups)
+    this.systemElements = await this.getSystemElements()
+    // console.log(this.systemElements.map(el => el.colorList))
+    this.extraSystemElements = await this.getExtraSystemElements()
+    // console.log(this.extraSystemElements.map(el => el.type))
+    const fabricData = await this.getFabrics()
+    this.classicFabrics = fabricData.classic
+    this.dayNightFabrics = fabricData.dayNight
+  }
+
+  save() {
+    fs.writeFileSync(
+      './metadata/system_groups.json',
+      JSON.stringify(this.systemGroups, null, 2)
+    )
+    console.log('System groups: success');
+
+    fs.writeFileSync(
+      './metadata/systems.json',
+      JSON.stringify(this.systems, null, 2)
+    )
+    console.log('Systems: success');
+
+    fs.writeFileSync(
+      './metadata/modification_groups.json',
+      JSON.stringify(this.modificationGroups, null, 2)
+    )
+    console.log('Modification groups: success');
+
+    fs.writeFileSync(
+      './metadata/modifications.json',
+      JSON.stringify(this.modifications, null, 2)
+    )
+    console.log('Modifications: success');
+
+    fs.writeFileSync(
+      './metadata/system_elements.json',
+      JSON.stringify(this.systemElements, null, 2)
+    )
+    console.log('System elements: success');
+
+    fs.writeFileSync(
+      './metadata/extra_system_elements.json',
+      JSON.stringify(this.extraSystemElements, null, 2)
+    )
+    console.log('Extra system elements: success');
+
+    fs.writeFileSync('./metadata/fabrics.json', JSON.stringify([
+      ...this.classicFabrics,
+      ...this.dayNightFabrics
+    ]))
+    console.log('Fabrics: success');
+
+    fs.writeFileSync('./metadata/data.json', JSON.stringify({
+      SYSTEM_GROUP_LIST: this.systemGroups,
+      SYSTEM_LIST: this.systems,
+      SYSTEM_ELEMENT_LIST: this.systemElements,
+      MODIFICATION_GROUP_LIST: this.modificationGroups,
+      MODIFICATION_LIST: this.modifications,
+      EXTRA_SYSTEM_ELEMENT_LIST: this.extraSystemElements,
+      FABRIC_LIST: [
+        ...this.classicFabrics,
+        ...this.dayNightFabrics
+      ],
+
+    }, null, 2))
+    console.log('Full data: success');
   }
 
 
@@ -164,7 +240,6 @@ class GoogleSpreadSheets {
     return this.modifications.find(el => el.id === id)
   }
 
-
   async getModifications(): Promise<Array<Modification>> {
     const data = await this.googleSheetsInstance?.spreadsheets.values.get(this.getAuthObject({
       sheetName: 'Модификаторы',
@@ -190,7 +265,7 @@ class GoogleSpreadSheets {
         title: item[3],
         fields: [],
         modificationGroup: this.generateModificationGroupId(item[0], item[1], item[2]),
-        image: item[3]?.includes('замер') ? `https://getfile.dokpub.com/yandex/get/${item[6]}` : undefined,
+        image: item[3]?.toLocaleLowerCase().includes('замер') ? `https://getfile.dokpub.com/yandex/get/${item[6]}` : undefined,
         mainImage: ['левое', 'левые', 'слева', 'правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase()) ? `https://getfile.dokpub.com/yandex/get/${item[6]}` : undefined,
       }
       if (['левое', 'левые', 'слева'].includes(item[3].toLocaleLowerCase())) modification.direction = 'left'
