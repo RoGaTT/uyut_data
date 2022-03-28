@@ -67,17 +67,21 @@ class ConfigController {
     }
   }
 
+  static getSystemElementViewList(systemId: string): SystemElement[] {
+    const buffer = data.SYSTEM_ELEMENT_LIST.filter(el => el.system === systemId)
+    return buffer
+  }
   static getSystemElementViewById(id: string): SystemElement | undefined {
     const item = this.getSystemElementById(id)
     if (!item) return undefined
     return item
   }
-  // static getSystemViewById(id: string): SystemView | undefined {
-  //   const item = this.getSystemGroupById(id)
-  //   if (!item) return undefined
+  static getSystemViewById(id: string): System | undefined {
+    const item = this.getSystemGroupById(id)
+    if (!item) return undefined
 
-  //   return 
-  // }
+    return 
+  }
   // static getSystemElementViewById(id: string): SystemElementView | undefined {
   //   return 
   // }
