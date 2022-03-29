@@ -151,7 +151,7 @@ class GoogleSpreadSheets {
       id: this.generateSystemGroupId(item[0]),
       title: item[0],
       fabricCollectionType: item[0].toLocaleLowerCase().includes('день') ? 'day_night' : 'classic',
-      image: `https://getfile.dokpub.com/yandex/get/${item[1]}`
+      image: this.generateImageUrl(item[1])
     }))
 
     return systemGroups
@@ -181,7 +181,7 @@ class GoogleSpreadSheets {
       return {
         id: this.generateSystemId(systemGroup.title, item[1]),
         title: item[1],
-        image: `https://getfile.dokpub.com/yandex/get/${item[5]}`,
+        image: this.generateImageUrl(item[5]),
         article: item[2],
         diameter: item[10],
         heightTo: item[9],
@@ -265,8 +265,8 @@ class GoogleSpreadSheets {
         title: item[3],
         fields: [],
         modificationGroup: this.generateModificationGroupId(item[0], item[1], item[2]),
-        image: item[3]?.toLocaleLowerCase().includes('замер') ? `https://getfile.dokpub.com/yandex/get/${item[6]}` : undefined,
-        mainImage: ['левое', 'левые', 'слева', 'правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase()) ? `https://getfile.dokpub.com/yandex/get/${item[6]}` : undefined,
+        image: item[3]?.toLocaleLowerCase().includes('замер') ? this.generateImageUrl(item[6]) : undefined,
+        mainImage: ['левое', 'левые', 'слева', 'правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase()) ? this.generateImageUrl(item[6]) : undefined,
       }
       if (['левое', 'левые', 'слева'].includes(item[3].toLocaleLowerCase())) modification.direction = 'left'
       if (['правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase())) modification.direction = 'right'
