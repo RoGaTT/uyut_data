@@ -301,7 +301,7 @@ class GoogleSpreadSheets {
       sheetName: 'Модификаторы',
       fromLetter: 'B',
       startNumber: 100,
-      toLetter: 'BC',
+      toLetter: 'AF',
       lastRowNumber: 299,
     }))
     if (!data || !data.data.values) return []
@@ -335,14 +335,19 @@ class GoogleSpreadSheets {
       if (!systemElement) return
 
       // if (!item[18] || !item[19] || !item[4] || !item[6]) return
-      systemElement.colorList.push({
+      const newSystemElement: any = {
         title: item[18],
         image: this.generateImageUrl(item[19]),
         isPlastic: item[20].toLowerCase().includes('пластик'),
         isMetallic: item[20].toLowerCase().includes('металлич'),
         leftMainImage: this.generateImageUrl(item[4]),
-        rightMainImage: this.generateImageUrl(item[6])
-      })
+        rightMainImage: this.generateImageUrl(item[6]),
+      }
+      if (item[30]) {
+        newSystemElement.layer = item[30]
+      }
+
+      systemElement.colorList.push(newSystemElement)
     })
 
     return systemElements as SystemElement[]
@@ -432,7 +437,7 @@ class GoogleSpreadSheets {
     let classicFabrics: Fabric[] = []
     for (let i = 0; i < this.systemGroups.length; i++) {
       const systemGroup = this.systemGroups[i]
-      if (systemGroup.fabricCollectionType === 'classic') {
+      if (systemGroup && systemGroup.fabricCollectionType === 'classic') {
         classicFabrics = classicFabricData.data.values.map((item) => ({
           id: this.generateFabricId(item[2]),
           article: item[1],

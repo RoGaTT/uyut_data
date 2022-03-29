@@ -79,7 +79,8 @@ class ConfigController {
     return {
       ...item,
       extraSystemElements: data.EXTRA_SYSTEM_ELEMENT_LIST.filter(el => el.system === item.id),
-      systemElements: data.SYSTEM_ELEMENT_LIST.filter(el => el.system === item.id)
+      systemElements: data.SYSTEM_ELEMENT_LIST.filter(el => el.system === item.id),
+      fabrics: data.FABRIC_LIST.filter(el => el.systemGroup === item.systemGroup)
     }
   }
 

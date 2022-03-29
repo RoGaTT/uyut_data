@@ -64,6 +64,7 @@ export type SystemElement = {
     // Пластиковый ли цвет
     isPlastic?: boolean
     image: string
+    layer?: string
   }>
   // Для механизмов (от их цвета зависят цвета всего остального)
   isMain?: boolean
