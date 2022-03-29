@@ -281,7 +281,7 @@ class GoogleSpreadSheets {
       if (!modification) return
       modification.fields.push({
         label: item[32],
-        placeholder: item[32].split(', ')[1]
+        placeholder: item[32].toLocaleLowerCase().includes('высота') ? '150' : item[32].split(', ')[1]
       })
     })
 
