@@ -3,7 +3,11 @@ import { Compute, GoogleAuth, JWT, UserRefreshClient } from "googleapis-common";
 import { ExtraSystemElement, Fabric, Modification, ModificationGroup, System, SystemElement, SystemGroup } from "../types";
 import base64 from 'base-64'
 import utf8 from 'utf8'
-import fs from 'fs'
+import fs, { unlinkSync } from 'fs'
+import * as translit from "transliteration";
+import mime from 'mime-types'
+import axios from "axios";
+import IMAGE_DICT from "../data/images";
 
 class GoogleSpreadSheets {
   private auth: GoogleAuth;
@@ -17,6 +21,9 @@ class GoogleSpreadSheets {
   extraSystemElements: ExtraSystemElement[] = []
   classicFabrics: Fabric[] = []
   dayNightFabrics: Fabric[] = []
+  errorImages: {
+    [key: string]: string
+  } = {}
 
   constructor() {
     this.auth = new google.auth.GoogleAuth({
@@ -25,10 +32,67 @@ class GoogleSpreadSheets {
     });
   }
 
+  private async downloadImage(title: string, yandexDiskUrl: string, isSuccessLog?: boolean): Promise<string | undefined> {
+    let url = yandexDiskUrl
+    if (!url) return undefined
+    if (yandexDiskUrl.includes('disk')) url = `https://getfile.dokpub.com/yandex/get/${yandexDiskUrl}`
+    const fileName = translit.transliterate(title.toLocaleLowerCase(), {
+      trim: true,
+      replaceAfter: {
+        ' ': '_',
+        '/': '-',
+        '"': '',
+        "%": '',
+        '.': '_'
+      }
+    })
 
-  private generateImageUrl(url: string) {
-    if (!url?.includes('disk')) return url
-    return `https://getfile.dokpub.com/yandex/get/${url}`
+
+    const existingFileName = fs.readdirSync('metadata/parsed_images').find(el => el.split('.')[0] === fileName)
+    if (existingFileName) return `metadata/parsed_images/${existingFileName}`
+
+    if (IMAGE_DICT[yandexDiskUrl]) return IMAGE_DICT[yandexDiskUrl]
+
+    let uploadPath = ''
+
+    try {
+      const response = await axios({
+        url,
+        method: 'GET',
+        responseType: 'stream'
+      })
+
+      const extension = mime.extension(response.headers['content-type']) || 'png'
+      uploadPath = `metadata/parsed_images/${fileName}.${extension}`
+
+      if (fs.existsSync(uploadPath)) {
+        console.log(`File already exists: ${uploadPath}`);
+        return uploadPath
+      };
+      const writer = fs.createWriteStream(uploadPath)
+
+      response.data.pipe(writer)
+
+      await new Promise((resolve, reject) => {
+        writer.on('finish', () => {
+          // if (isSuccessLog) console.log(`IMAGE - ${title || 'N/A'}: SUCCESS.  URL: ${yandexDiskUrl}.  New URL: ${uploadPath}`)
+          resolve('')
+        })
+        writer.on('error', (e) => {
+          reject()
+        })
+      })
+    } catch (e) {
+      console.log(url)
+      if (!this.errorImages[yandexDiskUrl]) this.errorImages[yandexDiskUrl] = ''
+      console.error(`IMAGE - ${title || 'N/A'}: ERROR.  URL: ${yandexDiskUrl}`)
+    }
+
+    return !!uploadPath ? uploadPath : undefined
+  }
+
+  private async generateImageUrl(title: string, url: string) {
+    return await this.downloadImage(title, url, true)
   }
 
   private generateBase64Id(key: string) {
@@ -48,6 +112,7 @@ class GoogleSpreadSheets {
       range: `${data.sheetName}!${data.fromLetter}${data.startNumber}:${data.toLetter}${data.lastRowNumber}`
     }
   }
+
 
   async init() {
     const client = await this.auth.getClient()
@@ -107,6 +172,12 @@ class GoogleSpreadSheets {
     )
     console.log('Extra system elements: success');
 
+    fs.writeFileSync(
+      './metadata/error_images.json',
+      JSON.stringify(this.errorImages, null, 2)
+    )
+    console.log(`Amount of failed images: ${Object.keys(this.errorImages).length}`);
+
     fs.writeFileSync('./metadata/fabrics.json', JSON.stringify([
       ...this.classicFabrics,
       ...this.dayNightFabrics
@@ -134,6 +205,9 @@ class GoogleSpreadSheets {
   generateSystemGroupId(systemGroupTitle: string) {
     return this.generateBase64Id(`${systemGroupTitle}`)
   }
+  generateSystemGroupTitle(systemGroupTitle: string) {
+    return `${systemGroupTitle}`
+  }
   getSystemGroupById(id: string) {
     return this.systemGroups.find(el => el.id === id)
   }
@@ -147,12 +221,16 @@ class GoogleSpreadSheets {
     }))
     if (!data || !data.data.values) return []
 
-    const systemGroups: SystemGroup[] = data.data.values.map((item) => ({
-      id: this.generateSystemGroupId(item[0]),
-      title: item[0],
-      fabricCollectionType: item[0].toLocaleLowerCase().includes('день') ? 'day_night' : 'classic',
-      image: this.generateImageUrl(item[1])
-    }))
+    const systemGroups: SystemGroup[] = []
+
+    for (const item of data.data.values) {
+      systemGroups.push({
+        id: this.generateSystemGroupId(item[0]),
+        title: item[0],
+        fabricCollectionType: item[0].toLocaleLowerCase().includes('день') ? 'day_night' : 'classic',
+        image: await this.generateImageUrl(this.generateSystemGroupTitle(item[0]), item[1]) || ''
+      })
+    } 
 
     return systemGroups
   }
@@ -160,7 +238,10 @@ class GoogleSpreadSheets {
 
   // Systems
   generateSystemId(systemGroupTitle: string, systemTitle: string) {
-    return this.generateBase64Id(`${systemGroupTitle}.${systemTitle}`)
+    return this.generateBase64Id(`${systemGroupTitle}__${systemTitle}`)
+  }
+  generateSystemTitle(systemGroupTitle: string, systemTitle: string) {
+    return `${systemGroupTitle}__${systemTitle}`
   }
   getSystemById(id: string) {
     return this.systems.find(el => el.id === id)
@@ -175,13 +256,14 @@ class GoogleSpreadSheets {
     }))
     if (!data || !data.data.values) return []
 
-    const systems: Array<System | undefined> = data.data.values.map((item) => {
+    const systems: Array<System | undefined> = []
+    for (const item of data.data.values) {
       const systemGroup = this.getSystemGroupById(this.generateSystemGroupId(item[0]))
-      if (!systemGroup) return
-      return {
+      if (!systemGroup) continue
+      systems.push({
         id: this.generateSystemId(systemGroup.title, item[1]),
         title: item[1],
-        image: this.generateImageUrl(item[5]),
+        image: await this.generateImageUrl(this.generateSystemTitle(systemGroup.title, item[1]), item[5]) || '',
         article: item[2],
         diameter: item[10],
         heightTo: item[9],
@@ -189,15 +271,15 @@ class GoogleSpreadSheets {
         widthFrom: item[7],
         widthTo: item[8],
         pdf: item[4]
-      }
-    })
+      })
+    }
 
     return systems.filter(el => el) as  System[]
   }
 
   // Modification groups
   generateModificationGroupId(systemGroupTitle: string, systemTitle: string, modificationGroupTitle: string) {
-    return this.generateBase64Id(`${systemGroupTitle}.${systemTitle}.${modificationGroupTitle}`)
+    return this.generateBase64Id(`${systemGroupTitle}__${systemTitle}__${modificationGroupTitle}`)
   }
   getModificationGroupById(id: string) {
     return this.modificationGroups.find(el => el.id === id)
@@ -234,7 +316,10 @@ class GoogleSpreadSheets {
 
   // Modifications
   generateModificationId(systemGroupTitle: string, systemTitle: string, modificationGroupTitle: string, modificationTitle: string) {
-    return this.generateBase64Id(`${systemGroupTitle}.${systemTitle}.${modificationGroupTitle}.${modificationTitle}`)
+    return this.generateBase64Id(`${systemGroupTitle}__${systemTitle}__${modificationGroupTitle}__${modificationTitle}`)
+  }
+  generateModificationTitle(systemGroupTitle: string, systemTitle: string, modificationGroupTitle: string, modificationTitle: string) {
+    return `${systemGroupTitle}__${systemTitle}__${modificationGroupTitle}__${modificationTitle}`
   }
   getModificationById(id: string) {
     return this.modifications.find(el => el.id === id)
@@ -251,28 +336,29 @@ class GoogleSpreadSheets {
     if (!data || !data.data.values) return []
 
     const filterSet = new Set()
-    let modifications: Array<Modification | undefined> = data.data.values.map((item, itemIndex) => {
+    let modifications: Array<Modification | undefined> = []
+    for (const item of data.data.values) {
       const modificationGroup = this.getModificationGroupById(
         this.generateModificationGroupId(item[0], item[1], item[2])
       )
-      if (!modificationGroup) return
+      if (!modificationGroup) continue
 
       const id = this.generateModificationId(item[0], item[1], item[2], item[3])
-      if (filterSet.has(id)) return
+      if (filterSet.has(id)) continue
       filterSet.add(id)
       const modification: Modification = {
         id: id,
         title: item[3],
         fields: [],
         modificationGroup: this.generateModificationGroupId(item[0], item[1], item[2]),
-        image: item[3]?.toLocaleLowerCase().includes('замер') ? this.generateImageUrl(item[6]) : undefined,
-        mainImage: ['левое', 'левые', 'слева', 'правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase()) ? this.generateImageUrl(item[6]) : undefined,
+        image: item[3]?.toLocaleLowerCase().includes('замер') ? await this.generateImageUrl(this.generateModificationTitle(item[0], item[1], item[2], item[3]), item[6]) : undefined,
+        mainImage: ['левое', 'левые', 'слева', 'правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase()) ? await this.generateImageUrl(this.generateModificationTitle(item[0], item[1], item[2], item[3]), item[6]) : undefined,
       }
       if (['левое', 'левые', 'слева'].includes(item[3].toLocaleLowerCase())) modification.direction = 'left'
       if (['правое', 'правые', 'справа'].includes(item[3].toLocaleLowerCase())) modification.direction = 'right'
 
-      return modification
-    })
+      modifications.push(modification)
+    }
 
     modifications = modifications.filter(el => el) 
     data.data.values.forEach(item => {
@@ -290,7 +376,10 @@ class GoogleSpreadSheets {
 
   // System elements
   generateSystemElementId(systemGroupTitle: string, systemTitle: string, systemElementTitle: string) {
-    return this.generateBase64Id(`${systemGroupTitle}.${systemTitle}.${systemElementTitle}`)
+    return this.generateBase64Id(`${systemGroupTitle}__${systemTitle}__${systemElementTitle}`)
+  }
+  generateSystemElementTitle(systemGroupTitle: string, systemTitle: string, systemElementTitle: string) {
+    return `${systemGroupTitle}__${systemTitle}__${systemElementTitle}`
   }
   getSystemElementById(id: string) {
     return this.systemElements.find(el => el.id === id)
@@ -329,26 +418,26 @@ class GoogleSpreadSheets {
 
 
     systemElements = systemElements.filter(el => el)
-    data.data.values.forEach(item => {
-      if (!item[18]) return
+    for (const item of data.data.values) {
+      if (!item[18]) continue
       const systemElement = systemElements.find(el => el?.id === this.generateSystemElementId(item[0], item[1], item[2]))
-      if (!systemElement) return
-
+      if (!systemElement) continue
+      const systemElementTitle = `${this.generateSystemElementTitle(item[0], item[1], item[2])}__${item[18]}`
       // if (!item[18] || !item[19] || !item[4] || !item[6]) return
       const newSystemElement: any = {
         title: item[18],
-        image: this.generateImageUrl(item[19]),
+        image: await this.generateImageUrl(`${systemElementTitle}`, item[19]),
         isPlastic: item[20].toLowerCase().includes('пластик'),
         isMetallic: item[20].toLowerCase().includes('металлич'),
-        leftMainImage: this.generateImageUrl(item[4]),
-        rightMainImage: this.generateImageUrl(item[6]),
+        leftMainImage: await this.generateImageUrl(`${systemElementTitle}__left`, item[4]),
+        rightMainImage: await this.generateImageUrl(`${systemElementTitle}__right`, item[6]),
       }
       if (item[30]) {
         newSystemElement.layer = item[30]
       }
 
       systemElement.colorList.push(newSystemElement)
-    })
+    }
 
     return systemElements as SystemElement[]
   }
@@ -356,7 +445,10 @@ class GoogleSpreadSheets {
 
   // Extra system elements
   generateExtraSystemElementId(systemGroupTitle: string, systemTitle: string, systemElementTitle: string, extraSystemElementTitle: string) {
-    return this.generateBase64Id(`${systemGroupTitle}.${systemTitle}.${systemElementTitle}.${extraSystemElementTitle}`)
+    return this.generateBase64Id(`${systemGroupTitle}__${systemTitle}__${systemElementTitle}__${extraSystemElementTitle}`)
+  }
+  generateExtraSystemElementTitle(systemGroupTitle: string, systemTitle: string, systemElementTitle: string, extraSystemElementTitle: string) {
+    return `${systemGroupTitle}__${systemTitle}__${systemElementTitle}__${extraSystemElementTitle}`
   }
   getExtraSystemElementById(id: string) {
     return this.extraSystemElements.find(el => el.id === id)
@@ -373,45 +465,50 @@ class GoogleSpreadSheets {
     if (!data || !data.data.values) return []
 
     const filterSet = new Set()
-    let extraSystemElements: Array<ExtraSystemElement | undefined> = data.data.values.map((item, itemIndex) => {
+    let extraSystemElements: Array<ExtraSystemElement | undefined> = []
+    for (const item of data.data.values) {
       const system = this.getSystemById(
         this.generateSystemId(item[0], item[1])
       )
-      if (!system) return
+      if (!system) continue
 
       const id = this.generateExtraSystemElementId(item[0], item[1], item[2], item[3])
-      if (filterSet.has(id)) return
+      if (filterSet.has(id)) continue
       filterSet.add(id)
       const extraSystemElement: ExtraSystemElement = {
         id: id,
         title: item[3],
         colorList: [],
-        image: this.generateImageUrl(item[6]),
+        image: await this.generateImageUrl(this.generateExtraSystemElementTitle(item[0], item[1], item[2], item[3]), item[6]) || '',
         system: system.id,
         type: item[2].toLowerCase().includes('утяжелитель') ? 'weighting' : 'fixation'
       }
 
-      return extraSystemElement
-    })
+      extraSystemElements.push(extraSystemElement)
+    }
 
 
     extraSystemElements = extraSystemElements.filter(el => el)
-    data.data.values.forEach(item => {
-      if (!item[18]) return
+    for (const item of data.data.values) {
+      if (!item[18]) continue
       const extraSystemElement = extraSystemElements.find(el => el?.id === this.generateExtraSystemElementId(item[0], item[1], item[2], item[3]))
-      if (!extraSystemElement) return
+      if (!extraSystemElement) continue
+      const extraSystemElementColorTitle = `${this.generateExtraSystemElementTitle(item[0], item[1], item[2], item[3])}__${item[18]}`
       extraSystemElement.colorList.push({
         title: item[18],
-        image: this.generateImageUrl(item[19]),
-        mainImage: this.generateImageUrl(item[4])
+        image: await this.generateImageUrl(extraSystemElementColorTitle, item[19]) || '',
+        mainImage: await this.generateImageUrl(`${extraSystemElementColorTitle}__main`, item[4])
       })
-    })
+    }
 
     return extraSystemElements as ExtraSystemElement[]
   }
 
-  generateFabricId(systemTitle: string) {
-    return this.generateBase64Id(`${systemTitle}`)
+  generateFabricId(systemTitle: string, fabricTitle: string) {
+    return this.generateBase64Id(`${systemTitle}__${fabricTitle}`)
+  }
+  generateFabricTitle(systemTitle: string, fabricTitle: string) {
+    return `${systemTitle}__${fabricTitle}`
   }
   getFabricById(id: string) {
     return this.systemGroups.find(el => el.id === id)
@@ -427,7 +524,7 @@ class GoogleSpreadSheets {
       toLetter: 'S',
       lastRowNumber: 412,
     }))
-    if (!classicFabricData || !classicFabricData.data.values) return {
+    if (!classicFabricData?.data?.values) return {
       classic: [],
       dayNight: []
     }
@@ -435,23 +532,24 @@ class GoogleSpreadSheets {
     // console.log(classicFabricData.data.values.slice(0, 20))
 
     let classicFabrics: Fabric[] = []
-    for (let i = 0; i < this.systemGroups.length; i++) {
-      const systemGroup = this.systemGroups[i]
+    for (const systemGroup of this.systemGroups) {
       if (systemGroup && systemGroup.fabricCollectionType === 'classic') {
-        classicFabrics = classicFabricData.data.values.map((item) => ({
-          id: this.generateFabricId(item[2]),
-          article: item[1],
-          heightFrom: 0,
-          heightTo: 0,
-          innerID: item[0],
-          title: item[2],
-          mainImage: this.generateImageUrl(item[9]),
-          systemGroup: systemGroup.id,
-          widthFrom: 0,
-          widthTo: +item[6] || 0,
-          fabricGroupType: 'classic',
-          image: this.generateImageUrl(item[7])
-        }))
+        for (const item of classicFabricData.data.values) {
+          classicFabrics.push({
+            id: this.generateFabricId(systemGroup.title, item[2]),
+            article: item[1],
+            heightFrom: 0,
+            heightTo: 0,
+            innerID: item[0],
+            title: item[2],
+            mainImage: await this.generateImageUrl(`${this.generateFabricTitle(systemGroup.title, item[2])}__${item[2]}__main`, item[9]) || '',
+            systemGroup: systemGroup.id,
+            widthFrom: 0,
+            widthTo: +item[6] || 0,
+            fabricGroupType: 'classic',
+            image: await this.generateImageUrl(`${this.generateFabricTitle(systemGroup.title, item[2])}__${item[2]}`, item[7]) || ''
+          })
+        }
       }
     }
 
@@ -468,23 +566,24 @@ class GoogleSpreadSheets {
     }
 
     let dayNightFabrics: Fabric[] = []
-    for (let i = 0; i < this.systemGroups.length; i++) {
-      const systemGroup = this.systemGroups[i]
-      if (systemGroup.fabricCollectionType === 'day_night') {
-        dayNightFabrics = dayNightFabricData.data.values.map((item) => ({
-          id: this.generateFabricId(item[2]),
-          article: item[1],
-          heightFrom: 0,
-          heightTo: 0,
-          innerID: item[0],
-          title: item[2],
-          mainImage: this.generateImageUrl(item[8]),
-          systemGroup: systemGroup.id,
-          widthFrom: 0,
-          widthTo: +item[5] || 0,
-          fabricGroupType: 'day_night',
-          image: this.generateImageUrl(item[6])
-        }))
+    for (const systemGroup of this.systemGroups) {
+      if (systemGroup && systemGroup.fabricCollectionType === 'day_night') {
+        for (const item of dayNightFabricData.data.values) {
+          dayNightFabrics.push({
+            id: this.generateFabricId(systemGroup.title, item[2]),
+            article: item[1],
+            heightFrom: 0,
+            heightTo: 0,
+            innerID: item[0],
+            title: item[2],
+            mainImage: await this.generateImageUrl(`${this.generateFabricTitle(systemGroup.title, item[2])}__main`, item[8]) || '',
+            systemGroup: systemGroup.id,
+            widthFrom: 0,
+            widthTo: +item[5] || 0,
+            fabricGroupType: 'day_night',
+            image: await this.generateImageUrl(`${this.generateFabricTitle(systemGroup.title, item[2])}`, item[6]) || ''
+          })
+        }
       }
     }
 
