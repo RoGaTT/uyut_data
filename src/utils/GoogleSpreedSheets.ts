@@ -331,7 +331,7 @@ class GoogleSpreadSheets {
       fromLetter: 'B',
       startNumber: 5,
       toLetter: 'BC',
-      lastRowNumber: 99,
+      lastRowNumber: 101,
     }))
     if (!data || !data.data.values) return []
 
@@ -389,9 +389,9 @@ class GoogleSpreadSheets {
     const data = await this.googleSheetsInstance?.spreadsheets.values.get(this.getAuthObject({
       sheetName: 'Модификаторы',
       fromLetter: 'B',
-      startNumber: 100,
+      startNumber: 102,
       toLetter: 'AF',
-      lastRowNumber: 299,
+      lastRowNumber: 301,
     }))
     if (!data || !data.data.values) return []
 
@@ -458,9 +458,9 @@ class GoogleSpreadSheets {
     const data = await this.googleSheetsInstance?.spreadsheets.values.get(this.getAuthObject({
       sheetName: 'Модификаторы',
       fromLetter: 'B',
-      startNumber: 306,
+      startNumber: 308,
       toLetter: 'BC',
-      lastRowNumber: 485,
+      lastRowNumber: 500,
     }))
     if (!data || !data.data.values) return []
 

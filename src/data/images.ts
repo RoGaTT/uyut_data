@@ -1,7 +1,7 @@
 const IMAGE_DICT: {
   [key: string]: string
 } = {
-  "https://disk.yandex.ru/i/CxvEO52kGiGbog": "metadata/parsed_images_extra/upravlenie_pruzhinnor.jpg",
+  "https://disk.yandex.ru/i/CxvEO52kGiGbog": "metadata/parsed_images_extra/upravlenie_pruzhinnoe.png",
   "https://disk.yandex.ru/i/B_my_fopxaQGBQ": "metadata/parsed_images_extra/standard.jpg",
   "https://disk.yandex.ru/i/E2IeUBiVOVfp5Q": "metadata/parsed_images_extra/zamer_po_tkani.jpg",
   "https://disk.yandex.ru/i/PnagDrz3mO_AwA": "metadata/parsed_images_extra/white_1.jpg",
