@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtQ==",
+    "title": "Управление цепочное",
+    "fabricCollectionType": "classic",
+    "image": "metadata/parsed_images/upravlenie_cepochnoe.png"
+  },
+  {
+    "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1",
+    "title": "Управление пружинное",
+    "fabricCollectionType": "classic",
+    "image": "metadata/parsed_images_extra/upravlenie_pruzhinnoe.png"
+  },
+  {
+    "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0Yw=",
+    "title": "Управление День/Ночь",
+    "fabricCollectionType": "day_night",
+    "image": "metadata/parsed_images/upravlenie_den-noch.png"
+  }
+]
