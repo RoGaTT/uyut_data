@@ -507,12 +507,17 @@ class GoogleSpreadSheets {
       const extraSystemElement = extraSystemElements.find(el => el?.id === this.generateExtraSystemElementId(item[0], item[1], item[2], item[3]))
       if (!extraSystemElement) continue
       const extraSystemElementColorTitle = `${this.generateExtraSystemElementTitle(item[0], item[1], item[2], item[3])}__${item[18]}`
-      extraSystemElement.colorList.push({
+      const newExtraSystemElement: any = {
         title: item[18],
         image: await this.generateImageUrl(extraSystemElementColorTitle, item[19]) || '',
         mainImage: await this.generateImageUrl(`${extraSystemElementColorTitle}__main`, item[4])
-      })
+      }
+      if (item[30]) {
+        newExtraSystemElement.layer = item[30]
+      }
+      extraSystemElement.colorList.push(newExtraSystemElement)
     }
+
 
     return extraSystemElements as ExtraSystemElement[]
   }

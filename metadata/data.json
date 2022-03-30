@@ -3233,32 +3233,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta.jpeg",
@@ -3272,27 +3278,32 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_3.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks.jpeg",
@@ -3336,32 +3347,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta.jpeg",
@@ -3375,27 +3392,32 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_3.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks.jpeg",
@@ -3409,27 +3431,32 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_3.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
@@ -3473,32 +3500,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta.jpeg",
@@ -3512,27 +3545,32 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_3.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
@@ -3576,32 +3614,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta.jpeg",
@@ -3615,27 +3659,32 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_3.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
@@ -3679,32 +3728,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta.jpeg",
@@ -3718,22 +3773,26 @@
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светло-бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Бежевый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
@@ -3777,32 +3836,38 @@
         {
           "title": "Белый",
           "image": "_nuxt/img/white_2.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Серый",
           "image": "_nuxt/img/grey.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Светлый дуб",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Темно-коричневый",
           "image": "_nuxt/img/dark_brown.jpg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Антрацит",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+          "layer": "Утяжелитель (2 слой)"
         },
         {
           "title": "Черный",
           "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png"
+          "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+          "layer": "Утяжелитель (2 слой)"
         }
       ],
       "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta.jpeg",

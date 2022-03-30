@@ -143,6 +143,7 @@ export type ExtraSystemElement = {
     image: ImageUrl,
     title: string
     mainImage?: ImageUrl
+    layer?: string
   }>
   system: ID
   type: 'weighting' | 'fixation',
