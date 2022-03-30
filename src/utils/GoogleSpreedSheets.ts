@@ -8,6 +8,8 @@ import * as translit from "transliteration";
 import mime from 'mime-types'
 import axios from "axios";
 import IMAGE_DICT from "../data/images";
+// @ts-ignore
+import tranlitNpm from 'translit-npm'
 
 class GoogleSpreadSheets {
   private auth: GoogleAuth;
@@ -43,13 +45,23 @@ class GoogleSpreadSheets {
         '/': '-',
         '"': '',
         "%": '',
-        '.': '_'
+        '.': '_',
+        '(': '',
+        ')': ''
       }
     })
+    const fileNameWithUrl = `${fileName}___${tranlitNpm.translitForUrl(yandexDiskUrl.replace(/\//gi, '_'))}`
 
 
     const existingFileName = fs.readdirSync('metadata/parsed_images').find(el => el.split('.')[0] === fileName)
-    if (existingFileName) return `_nuxt/img/${existingFileName}`
+    if (existingFileName) {
+      // fs.renameSync(
+      //   `metadata/parsed_images/${fileName}`,
+      //   `metadata/parsed_images/${fileNameWithUrl}.${existingFileName.split('.')[1]}`
+      // )
+      // console.log();
+      return `_nuxt/img/${existingFileName}`
+    }
 
     if (IMAGE_DICT[yandexDiskUrl]) return `_nuxt/img/${IMAGE_DICT[yandexDiskUrl]}`
 
