@@ -49,11 +49,12 @@ class GoogleSpreadSheets {
 
 
     const existingFileName = fs.readdirSync('metadata/parsed_images').find(el => el.split('.')[0] === fileName)
-    if (existingFileName) return `metadata/parsed_images/${existingFileName}`
+    if (existingFileName) return `_nuxt/img/${existingFileName}`
 
-    if (IMAGE_DICT[yandexDiskUrl]) return IMAGE_DICT[yandexDiskUrl]
+    if (IMAGE_DICT[yandexDiskUrl]) return `_nuxt/img/${IMAGE_DICT[yandexDiskUrl]}`
 
     let uploadPath = ''
+    let extension = ''
 
     try {
       const response = await axios({
@@ -62,7 +63,7 @@ class GoogleSpreadSheets {
         responseType: 'stream'
       })
 
-      const extension = mime.extension(response.headers['content-type']) || 'png'
+      extension = mime.extension(response.headers['content-type']) || 'png'
       uploadPath = `metadata/parsed_images/${fileName}.${extension}`
 
       if (fs.existsSync(uploadPath)) {
@@ -88,7 +89,7 @@ class GoogleSpreadSheets {
       console.error(`IMAGE - ${title || 'N/A'}: ERROR.  URL: ${yandexDiskUrl}`)
     }
 
-    return !!uploadPath ? uploadPath : undefined
+    return !!uploadPath ? `_nuxt/img/${fileName}.${extension}` : undefined
   }
 
   private async generateImageUrl(title: string, url: string) {

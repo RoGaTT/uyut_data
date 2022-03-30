@@ -5,50 +5,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_1.jpg",
+        "image": "_nuxt/img/white_1.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -61,50 +61,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_2.jpg",
+        "image": "_nuxt/img/white_2.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -117,10 +117,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -133,42 +133,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -181,10 +181,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -197,10 +197,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -213,10 +213,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_mehanizma__belyy__right.zip",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_mehanizma__belyy__right.zip",
         "layer": "Система (3 слой)"
       }
     ],
@@ -229,10 +229,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__rama_plyus__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__rama_plyus__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -245,10 +245,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__standart_pruzhinnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__standart_pruzhinnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -261,10 +261,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_kassetnyy_pruzhinnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_kassetnyy_pruzhinnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -277,50 +277,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_1.jpg",
+        "image": "_nuxt/img/white_1.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__vanil.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__vanil__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__vanil__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__chernyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_mehanizma__bronza__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__bronza__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -333,50 +333,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_2.jpg",
+        "image": "_nuxt/img/white_2.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -389,42 +389,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -437,10 +437,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -453,10 +453,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -469,56 +469,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_1.jpg",
+        "image": "_nuxt/img/white_1.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -531,56 +531,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_2.jpg",
+        "image": "_nuxt/img/white_2.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -593,137 +593,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__standart__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -736,137 +736,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -879,137 +879,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1022,137 +1022,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1165,137 +1165,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1312,7 +1312,16 @@
   {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/RgdGC0LDQvdC00LDRgNGCINC/0YDRg9C20LjQvdC90YvQuV9f0YbQstC10YIg0YDRg9GH0LrQuA==",
     "title": "Цвет ручки",
-    "colorList": [],
+    "colorList": [
+      {
+        "title": "Белый",
+        "image": "_nuxt/img/white_3.jpg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__standart_pruzhinnyy__cvet_ruchki__belyy__right.png",
+        "layer": "Управление (4 слой)"
+      }
+    ],
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/RgdGC0LDQvdC00LDRgNGCINC/0YDRg9C20LjQvdC90YvQuQ==",
     "isMain": false
   },
@@ -1322,42 +1331,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_3.jpg",
+        "image": "_nuxt/img/white_3.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__belyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__belyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "metadata/parsed_images/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
@@ -1367,7 +1376,16 @@
   {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/RhtCy0LXRgiDRiNC90YPRgNCwINC4INGD0YLRj9C20LXQu9C40YLQtdC70Y8=",
     "title": "Цвет шнура и утяжелителя",
-    "colorList": [],
+    "colorList": [
+      {
+        "title": "Белый",
+        "image": "_nuxt/img/white_3.jpg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_kassetnyy_pruzhinnyy__cvet_shnura_i_utyazhelitelya__belyy__right.png",
+        "layer": "Утяжелитель (2 слой)"
+      }
+    ],
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5",
     "isMain": false
   },
@@ -1377,56 +1395,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_1.jpg",
+        "image": "_nuxt/img/white_1.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__mini__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1439,56 +1457,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_2.jpg",
+        "image": "_nuxt/img/white_2.jpg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1501,137 +1519,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1644,137 +1662,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1787,137 +1805,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_4.jpg",
+        "image": "_nuxt/img/white_4.jpg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "metadata/parsed_images_extra/white_5.jpg",
+        "image": "_nuxt/img/white_5.jpg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "metadata/parsed_images/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
+        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
