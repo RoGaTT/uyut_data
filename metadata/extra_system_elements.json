@@ -98,7 +98,7 @@
         "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks.png",
+    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -201,7 +201,7 @@
         "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks.png",
+    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -734,11 +734,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -746,11 +746,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -803,11 +803,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -815,11 +815,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -872,11 +872,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -884,11 +884,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -941,11 +941,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -953,11 +953,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -1002,11 +1002,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -1014,11 +1014,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -1071,11 +1071,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -1083,11 +1083,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -1132,11 +1132,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -1144,11 +1144,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
@@ -1193,11 +1193,11 @@
       },
       {
         "title": "Ваниль",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
       },
       {
         "title": "Серый",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
       },
       {
         "title": "Антрацит",
@@ -1205,11 +1205,11 @@
       },
       {
         "title": "Черный",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
       },
       {
         "title": "Бронза",
-        "image": ""
+        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
       },
       {
         "title": "Бежевый",
