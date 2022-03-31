@@ -5,50 +5,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa.jpeg",
+        "image": "_nuxt/img/5fb17701-3edf-4b95-a3ba-b19678ccd7b5.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/03b3a33b-7331-4eb4-b29e-dc744a37f558.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la.jpeg",
+        "image": "_nuxt/img/ba422d28-1369-468d-8e86-d92ed6c95c59.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d092d0b0d0bdd0b8d0bbd18c20d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/42cf4e34-73c8-4fc5-8bc4-a6f78dc7d966.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw.jpeg",
+        "image": "_nuxt/img/6fb73693-a6a2-4824-8543-cde329c0e2e1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b5d180d18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/e08d77a4-37c1-48bf-881e-4a69ccf05f58.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q.jpeg",
+        "image": "_nuxt/img/c7fca261-9beb-4b1d-897d-4e783081dc93.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d090d0bdd182d180d0b0d186d0b8d18220d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/d6ead756-1a27-457e-b1ba-814a89cf3092.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia.jpeg",
+        "image": "_nuxt/img/7f82b71a-0492-4857-a335-90145a5f0f7f.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a7d0b5d180d0bdd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/214dedc2-327f-4409-bdb8-96573fd0f5ae.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva.jpeg",
+        "image": "_nuxt/img/2c7934b8-0985-4702-8e1a-96077dd13b95.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-620-20d091d180d0bed0bdd0b7d0b020d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
+        "rightMainImage": "_nuxt/img/b7fb5bb2-c5d5-4404-a838-1025e80e0a9f.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -61,47 +61,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g.jpeg",
+        "image": "_nuxt/img/7d283337-daa1-48a4-85c2-3703e86a74a6.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d0b1d0b5d0bbd0b0d18f_png.png",
+        "rightMainImage": "_nuxt/img/fd0cfb78-7d44-4e5b-82cc-15ec3a49dd91.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq.jpeg",
+        "image": "_nuxt/img/1b841a0a-36de-49b6-b0fb-59276d3d9b74.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d181d0b5d180d0b0d18f_png.png",
+        "rightMainImage": "_nuxt/img/abe928d9-279f-4bff-a720-7ef9279fd261.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za.jpeg",
+        "image": "_nuxt/img/8b33926c-08e1-4a8f-997c-d59113df4e37.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/f577bb9c-05c6-4146-80b3-48826f71bbf5.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq.jpeg",
+        "image": "_nuxt/img/66c48e73-62dd-4739-a609-be08341c1189.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/b0af67c7-b2c3-458c-a3ed-62079a8c74de.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg.jpeg",
+        "image": "_nuxt/img/14e484de-fcb6-4ed8-afa5-ab64f60618b1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/186640cc-39c7-4af9-b1ea-83c8d5ea41cf.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa.jpeg",
+        "image": "_nuxt/img/c35298ef-af54-4029-891f-c7ae91bbe9c7.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d187d0b5d180d0bdd0b0d18f_png.png",
+        "rightMainImage": "_nuxt/img/804dbc81-5010-4251-b4e5-730289a89013.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -114,9 +117,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq.jpeg",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/41f21aa7-71de-425a-9813-83acb55b73f6.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -129,42 +133,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad181_png.png",
+        "rightMainImage": "_nuxt/img/fbbdaca8-5c14-4be2-9655-52322f1b01b8.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa.jpeg",
+        "image": "_nuxt/img/fe88a69d-a08e-4edb-ba7d-250fe7f81ddf.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d0a1d0b5d180d18bd0b8cc8620d09bd18ed0bad181_png.png",
+        "rightMainImage": "_nuxt/img/79c52144-e760-4e15-a24e-6d98cf0c1dc0.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a.jpeg",
+        "image": "_nuxt/img/696ae28a-6d78-4f6b-8f40-fe8666ad9062.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
+        "rightMainImage": "_nuxt/img/81cfd53c-b167-4213-ad4f-35e2a29973bb.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg.jpeg",
+        "image": "_nuxt/img/4889c0b9-625d-45dc-80e4-23f00690e3fa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d091d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
+        "rightMainImage": "_nuxt/img/ce41a94c-0a72-407b-847c-8a4c469e950f.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg.jpeg",
+        "image": "_nuxt/img/e527b765-2c5b-409d-8fc6-171ef31782c8.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a2d0b5d0bcd0bdd0be-d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
+        "rightMainImage": "_nuxt/img/e12ee349-2c5c-41ab-a236-b574870812b8.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -177,9 +181,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/8cee534a-1b70-4fb2-9488-9fe3041ff295.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -192,9 +197,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/5dc68074-0a8f-416c-aac8-c49c409d4aec.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -207,10 +213,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad1812050_png.png",
+        "rightMainImage": "_nuxt/img/767a94cc-4654-4277-8e12-473a06a79b10.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -223,10 +229,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-820-20d0a0d0b0d0bcd0b020d0bfd0bbd18ed181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d0a0d0b0d0bcd0b020d09fd0bbd18ed181_png.png",
+        "rightMainImage": "_nuxt/img/859975e8-17ee-40e5-a771-a15709392ad0.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -239,10 +245,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-i-0jdhlimj2-98dw.png",
+        "rightMainImage": "_nuxt/img/c3951ecb-22ef-496f-addf-6bc180d2a383.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -255,9 +261,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/8cee534a-1b70-4fb2-9488-9fe3041ff295.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -270,50 +277,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
+        "image": "_nuxt/img/5fb17701-3edf-4b95-a3ba-b19678ccd7b5.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/03b3a33b-7331-4eb4-b29e-dc744a37f558.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
+        "image": "_nuxt/img/ba422d28-1369-468d-8e86-d92ed6c95c59.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d092d0b0d0bdd0b8d0bbd18c20d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/42cf4e34-73c8-4fc5-8bc4-a6f78dc7d966.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
+        "image": "_nuxt/img/6fb73693-a6a2-4824-8543-cde329c0e2e1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b5d180d18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/e08d77a4-37c1-48bf-881e-4a69ccf05f58.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
+        "image": "_nuxt/img/c7fca261-9beb-4b1d-897d-4e783081dc93.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d090d0bdd182d180d0b0d186d0b8d18220d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/d6ead756-1a27-457e-b1ba-814a89cf3092.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
+        "image": "_nuxt/img/7f82b71a-0492-4857-a335-90145a5f0f7f.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a7d0b5d180d0bdd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/214dedc2-327f-4409-bdb8-96573fd0f5ae.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
+        "image": "_nuxt/img/2c7934b8-0985-4702-8e1a-96077dd13b95.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-620-20d091d180d0bed0bdd0b7d0b020d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
+        "rightMainImage": "_nuxt/img/b7fb5bb2-c5d5-4404-a838-1025e80e0a9f.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -326,47 +333,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "image": "_nuxt/img/7d283337-daa1-48a4-85c2-3703e86a74a6.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d0b1d0b5d0bbd0b0d18f_png",
+        "rightMainImage": "_nuxt/img/fd0cfb78-7d44-4e5b-82cc-15ec3a49dd91.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "image": "_nuxt/img/1b841a0a-36de-49b6-b0fb-59276d3d9b74.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d181d0b5d180d0b0d18f_png",
+        "rightMainImage": "_nuxt/img/abe928d9-279f-4bff-a720-7ef9279fd261.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
+        "image": "_nuxt/img/8b33926c-08e1-4a8f-997c-d59113df4e37.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/f577bb9c-05c6-4146-80b3-48826f71bbf5.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
+        "image": "_nuxt/img/66c48e73-62dd-4739-a609-be08341c1189.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/b0af67c7-b2c3-458c-a3ed-62079a8c74de.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
+        "image": "_nuxt/img/14e484de-fcb6-4ed8-afa5-ab64f60618b1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/186640cc-39c7-4af9-b1ea-83c8d5ea41cf.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "image": "_nuxt/img/c35298ef-af54-4029-891f-c7ae91bbe9c7.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d187d0b5d180d0bdd0b0d18f_png",
+        "rightMainImage": "_nuxt/img/804dbc81-5010-4251-b4e5-730289a89013.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -379,42 +389,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad181_png",
+        "rightMainImage": "_nuxt/img/fbbdaca8-5c14-4be2-9655-52322f1b01b8.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "image": "_nuxt/img/fe88a69d-a08e-4edb-ba7d-250fe7f81ddf.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d0a1d0b5d180d18bd0b8cc8620d09bd18ed0bad181_png",
+        "rightMainImage": "_nuxt/img/79c52144-e760-4e15-a24e-6d98cf0c1dc0.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "image": "_nuxt/img/696ae28a-6d78-4f6b-8f40-fe8666ad9062.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
+        "rightMainImage": "_nuxt/img/81cfd53c-b167-4213-ad4f-35e2a29973bb.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "image": "_nuxt/img/4889c0b9-625d-45dc-80e4-23f00690e3fa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d091d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
+        "rightMainImage": "_nuxt/img/ce41a94c-0a72-407b-847c-8a4c469e950f.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "image": "_nuxt/img/e527b765-2c5b-409d-8fc6-171ef31782c8.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a2d0b5d0bcd0bdd0be-d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
+        "rightMainImage": "_nuxt/img/e12ee349-2c5c-41ab-a236-b574870812b8.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -427,9 +437,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/8cee534a-1b70-4fb2-9488-9fe3041ff295.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -442,9 +453,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/5dc68074-0a8f-416c-aac8-c49c409d4aec.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -457,44 +469,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
+        "image": "_nuxt/img/5fb17701-3edf-4b95-a3ba-b19678ccd7b5.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/26d3f07d-a9bf-4ab1-ad6a-d4991309de25.png",
+        "rightMainImage": "_nuxt/img/a2bababb-d56a-4a9e-af50-4fa4dcd9c52c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
+        "image": "_nuxt/img/ba422d28-1369-468d-8e86-d92ed6c95c59.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e5b3f21d-ab4e-465b-b288-f540230badd3.png",
+        "rightMainImage": "_nuxt/img/2bfe06d2-e93c-427c-8ee2-4ed6811577a5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
+        "image": "_nuxt/img/6fb73693-a6a2-4824-8543-cde329c0e2e1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/1f05bf99-c300-42ea-a9b3-c0b4615a3735.png",
+        "rightMainImage": "_nuxt/img/28aa61d0-8feb-4d59-9763-11b678a0309f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
+        "image": "_nuxt/img/c7fca261-9beb-4b1d-897d-4e783081dc93.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/ec61deea-fd47-4838-9bf9-3bd6faf95118.png",
+        "rightMainImage": "_nuxt/img/9750857f-80e6-4a62-a20c-fc6afe8a6b41.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
+        "image": "_nuxt/img/7f82b71a-0492-4857-a335-90145a5f0f7f.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/8cc41103-1f9a-48ee-960b-50bd034697a6.png",
+        "rightMainImage": "_nuxt/img/3488037d-17e6-4056-a16d-c4212bd4db24.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
+        "image": "_nuxt/img/2c7934b8-0985-4702-8e1a-96077dd13b95.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/58a0712c-3b9a-4bea-a238-5178afb5b3cc.png",
+        "rightMainImage": "_nuxt/img/516800ca-6bf3-4d7b-addf-0980a9f44bb5.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -507,44 +531,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "image": "_nuxt/img/7d283337-daa1-48a4-85c2-3703e86a74a6.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/cd02c78f-03d5-449b-9ef5-99e3733fe9ee.png",
+        "rightMainImage": "_nuxt/img/88baf8a3-e85e-492c-9c81-23dac003e5e3.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "image": "_nuxt/img/1b841a0a-36de-49b6-b0fb-59276d3d9b74.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/31eb0d23-649c-44ac-a6bb-35aaf4886a3a.png",
+        "rightMainImage": "_nuxt/img/13914b96-4423-409a-a1a3-ab8fe2c897a9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
+        "image": "_nuxt/img/8b33926c-08e1-4a8f-997c-d59113df4e37.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/83303ffd-bbde-4ae3-8aa0-5d44b2ed1e20.png",
+        "rightMainImage": "_nuxt/img/1bfacf2b-6e90-408a-986b-166122668e5c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
+        "image": "_nuxt/img/66c48e73-62dd-4739-a609-be08341c1189.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/6882be57-6e4c-47a7-93d4-126aed5dcd7a.png",
+        "rightMainImage": "_nuxt/img/745b7832-8307-43c2-8ca1-df4ca9e84825.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
+        "image": "_nuxt/img/14e484de-fcb6-4ed8-afa5-ab64f60618b1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/7b3c2005-5fcc-4fd0-a779-94e59f5726e4.png",
+        "rightMainImage": "_nuxt/img/a86664ae-6812-40fd-810f-21481d7ef1dc.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "image": "_nuxt/img/c35298ef-af54-4029-891f-c7ae91bbe9c7.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/1a60a32e-c8fe-4ce3-879c-0bad77ab281c.png",
+        "rightMainImage": "_nuxt/img/85cb7a5f-10cc-4aa6-8811-3831bf94eb0d.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -557,109 +593,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela.jpeg",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/2310dfeb-6f48-4c03-a51c-aee06ab9a744.png",
+        "rightMainImage": "_nuxt/img/4e59d10d-f60c-4e02-96a1-da0d6d89967e.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg.jpeg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/afed47b4-1881-45d8-9ebd-6af51bc7b027.png",
+        "rightMainImage": "_nuxt/img/768c2f26-0e8f-4c91-a7c1-86b2de8510ea.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg.jpeg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/67334937-0792-49e1-9c65-187e0d9bd2e1.png",
+        "rightMainImage": "_nuxt/img/e0a254f6-3bce-4d90-afd8-9295a2921e8c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq.jpeg",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-320-20d0a1d182d0b0d0bdd0b4d0b0d180d182-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20420-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png.png",
+        "leftMainImage": "_nuxt/img/919924f8-cb38-43fd-81f8-14a31e3a284f.png",
+        "rightMainImage": "_nuxt/img/b356c970-d151-4d49-8c0a-76056c90cde0.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog.jpeg",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/6be50fa3-144c-4d4a-a7a3-6685840c24eb.png",
+        "rightMainImage": "_nuxt/img/680e2dc7-fe2b-4911-8504-87982f13a70d.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa.jpeg",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/b078d20f-723d-493e-8241-8572831ac371.png",
+        "rightMainImage": "_nuxt/img/3adefcd8-a859-4c2f-bf3a-b6e900747174.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala.jpeg",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/130cf8b4-09d2-4b6e-953d-a8f9b73d625e.png",
+        "rightMainImage": "_nuxt/img/40d39b72-cdee-48fe-b0c2-a243e655818b.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq.jpeg",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e84b2f55-41d7-4993-aa67-58d379f893aa.png",
+        "rightMainImage": "_nuxt/img/473a0702-e09e-4eb0-a729-7a235030e547.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g.jpeg",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/8f8bb9b2-c3d0-4bc3-8871-7ac87593bb21.png",
+        "rightMainImage": "_nuxt/img/857d6df8-cbb4-4b06-83b5-6a59e435994b.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma.jpeg",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/a048ce7b-f4f6-463e-996a-7c4fa477d528.png",
+        "rightMainImage": "_nuxt/img/22f0d3aa-82bc-4054-b8da-fa67b8cdfed5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq.jpeg",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/b5552f0f-ed7c-4b9c-b45d-a85d6f2f50a8.png",
+        "rightMainImage": "_nuxt/img/09a6f481-1682-4002-8f7c-af0a5aa77a0a.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw.jpeg",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/227fe026-1c32-4e41-8c97-df594fccd91a.png",
+        "rightMainImage": "_nuxt/img/82b77b7b-763e-42c1-8d7e-93b285d40302.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw.jpeg",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-320-20d0a1d182d0b0d0bdd0b4d0b0d180d182-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/ca545046-86c3-4d51-be4e-2f97dc3ca8d6.png",
+        "rightMainImage": "_nuxt/img/d2a0875a-de82-4353-a760-417e19dbd68a.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq.jpeg",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/288e9a61-c3f1-4035-b338-afe7a9a4f348.png",
+        "rightMainImage": "_nuxt/img/c3994fc8-8725-4140-befb-51788cc321f9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa.jpeg",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/c08d8fc8-8264-4915-ba3a-d3a01dbc1223.png",
+        "rightMainImage": "_nuxt/img/898a2ca2-1132-4fd0-bfe4-f4c8755af5c3.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -672,126 +736,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/306df4e1-3ca1-4970-8cec-9956cad955d5.png",
+        "rightMainImage": "_nuxt/img/104f9407-3412-4175-b085-9580ca32c209.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/4f604e5c-14df-4e2d-bd37-45010b5acc91.png",
+        "rightMainImage": "_nuxt/img/5e798729-506a-49c1-9102-67202188762c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/5d8300ad-be4a-4d52-bce8-83145dea867f.png",
+        "rightMainImage": "_nuxt/img/06d678f8-7138-4bb1-b9cb-5c5532397736.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/fecd0014-43e6-4cbe-98fe-f6a5def45c4d.png",
+        "rightMainImage": "_nuxt/img/a25b2429-d8cc-4d99-9e2b-e607240bb6eb.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/48a3626a-d433-462e-a9bf-5463fa1acdb3.png",
+        "rightMainImage": "_nuxt/img/233cdc8b-87d1-418e-a96c-0a9fd9aec995.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/7916baef-c8d7-4478-886e-0326cb581058.png",
+        "rightMainImage": "_nuxt/img/e35aba7d-ad67-475f-883d-5b337b7ec1a2.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/85948202-9eb0-40cc-83cd-6bf5b69b25d2.png",
+        "rightMainImage": "_nuxt/img/5332bc4d-5d22-4148-a211-9d00348e3c73.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20820-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/8b720d32-8d1f-4ef3-9b0c-8ef17bed9760.png",
+        "rightMainImage": "_nuxt/img/4e781972-57d1-4de6-b81f-f97c0ce565f9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/15befd50-5c4a-4eb5-9dfa-940557e14ee7.png",
+        "rightMainImage": "_nuxt/img/cfa902e4-1e54-4daa-98bf-ee7946f9d305.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/d17436d6-d346-4b90-94da-794e72dcd5bb.png",
+        "rightMainImage": "_nuxt/img/7c0ebfb8-7c4d-4e92-907d-b0be9162f588.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/995cc911-21ad-4ca4-93ad-5517a212990c.png",
+        "rightMainImage": "_nuxt/img/45514410-c16c-4d0e-bfd6-d62644ab5c1c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201220-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bdd0b8d0bad0b5d0bbd18c_png.png",
+        "leftMainImage": "_nuxt/img/c7818cf2-ac87-47e5-89d3-cf9a0878e20f.png",
+        "rightMainImage": "_nuxt/img/66e6cdf0-15f7-4d1a-b3ea-e9843af6908a.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/ce78bd4b-bfa2-45c7-8e30-991d24937e8c.png",
+        "rightMainImage": "_nuxt/img/6faf4ed4-b38a-4eed-8556-9745c3d85e4f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/67d16bfd-4e3a-4024-8f57-7e7d62163b1a.png",
+        "rightMainImage": "_nuxt/img/12d92f51-8f3b-4edc-88e4-cb3cde03ed82.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201520-20d0a1d0b2_d0bbd0b0d182d183d0bdd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/f3aa14b9-169c-4205-93da-ab85764f1a03.png",
+        "rightMainImage": "_nuxt/img/c402a090-adde-47cf-a829-5ae3e9553bde.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -804,107 +879,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/46e07c72-8af9-493b-a5af-74c6dedd07ec.png",
+        "rightMainImage": "_nuxt/img/99d75b9b-4864-45db-9c1b-b1def9f101fe.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/0851cd13-92da-43ba-a62f-4defd425f43c.png",
+        "rightMainImage": "_nuxt/img/5b175a7e-40bb-49e8-87ca-d173f46d38d4.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/b8d23cc3-6a79-41e3-84c5-8f3e447fafe4.png",
+        "rightMainImage": "_nuxt/img/1e7ca826-9d69-455a-b31e-8aaab4302cfc.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/cb0070f4-1676-4b9e-a372-c1265c747fa6.png",
+        "rightMainImage": "_nuxt/img/217c7708-ed88-4290-b3d4-767b4120a747.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/828b4e95-3709-4a50-986f-466068e3cee3.png",
+        "rightMainImage": "_nuxt/img/8674b5b7-8571-4709-982f-937b9f28afd7.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e9566194-b132-4420-9863-9b22a84c4548.png",
+        "rightMainImage": "_nuxt/img/a4ac1c1a-6493-450b-8392-2fc46044e678.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/83e9023b-fe58-4754-9194-0b62bd750980.png",
+        "rightMainImage": "_nuxt/img/81ee97e2-a9d1-43b3-8f98-6af3b2d2066f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/8b7d5c22-031d-41d4-b43f-0278c5bdf6c8.png",
+        "rightMainImage": "_nuxt/img/a6a0c89f-45db-4403-a5ba-1b38cfce393c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/4257b2e8-c4a7-4f91-866d-4dbf20bee443.png",
+        "rightMainImage": "_nuxt/img/a611d049-1e4c-4b66-9a44-bc2e60771e5c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/07dfb965-30a6-4607-b4b6-b0faf43f0396.png",
+        "rightMainImage": "_nuxt/img/e46329ae-695a-4c8b-8344-e30c15d25e7c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/3c3851bc-7d1a-468a-adf0-3a80a8d2292c.png",
+        "rightMainImage": "_nuxt/img/e60f7379-bd4d-4b61-b998-32650b267f4c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/7a3ebb8f-1077-42ae-98c2-cef576f0e2b2.png",
+        "rightMainImage": "_nuxt/img/a36199e7-95fe-478d-a5ac-02b99eb13d4b.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/49fdfb9b-9970-4d78-b3d7-81f1fed1b716.png",
+        "rightMainImage": "_nuxt/img/eb1d218b-46f8-4f6a-8977-353c9ce5958d.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/b5fa2759-3dac-4e7c-8e74-626e6c319212.png",
+        "rightMainImage": "_nuxt/img/0b304eb2-e138-4a2c-a113-5159c9211746.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/d8d0e4e4-97d7-4f61-85a1-7239d8f8da4c.png",
+        "rightMainImage": "_nuxt/img/f2f85d03-00e9-4649-a495-8605654e3da8.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -917,107 +1022,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/86e737d4-af41-4503-96c8-a9fbbcfe54ed.png",
+        "rightMainImage": "_nuxt/img/c8210344-d6bc-46fa-901e-605a5a697b02.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/12eb1a5f-bd59-4c1e-913b-7440f25fa779.png",
+        "rightMainImage": "_nuxt/img/c56a0d7a-54d1-446b-bb76-0f0186164369.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e6cb7522-1276-4c57-811e-b8c2ed966084.png",
+        "rightMainImage": "_nuxt/img/03c94508-7bc1-4596-9e13-4ba545eeb7e5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/ae58ce3c-fc37-429f-a6ea-f6129ec7e15d.png",
+        "rightMainImage": "_nuxt/img/b08835c4-c7e6-44f0-8f85-15cdaecebbd6.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/858d21d1-1277-4722-a76c-5b08ed9ffd16.png",
+        "rightMainImage": "_nuxt/img/7e4f7d7c-f283-4254-88e0-8315405330cd.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/01a52690-7c48-4074-b762-96d887e6029f.png",
+        "rightMainImage": "_nuxt/img/96108a13-0b99-446a-9d06-09d513190358.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/21de0885-4bdd-4803-b5e0-629211f7d89a.png",
+        "rightMainImage": "_nuxt/img/4644e0b3-6b8f-4102-adf8-62d041cf552f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/3a48d847-28a1-48f3-b8bd-f806f4e486e2.png",
+        "rightMainImage": "_nuxt/img/6bd87fa1-0db9-4d61-897d-5067f4daf291.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/776e6778-ae68-4727-8395-0504d63c6960.png",
+        "rightMainImage": "_nuxt/img/daf0cddb-f540-414f-8814-d2a9505512e1.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/05ff57bf-e423-482e-9afd-53615cd6984a.png",
+        "rightMainImage": "_nuxt/img/1ff3848f-1ce6-47fc-bb64-47046f9c5874.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/f4d37aeb-d39e-4054-9cfb-e7328bee5a91.png",
+        "rightMainImage": "_nuxt/img/c2154001-6220-4b51-af3f-72fa44bc018e.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/94895983-1afd-4d0e-a563-fe73f3f43471.png",
+        "rightMainImage": "_nuxt/img/6cb5c389-641a-4f09-9d7e-33364c4e6840.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/697eef61-2cee-4e56-bfd3-4140e65b7a91.png",
+        "rightMainImage": "_nuxt/img/268320fc-c06c-4f9b-bf24-c3d8f515dc3e.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/3892446a-e3d6-43f4-935a-89a74ee5fabe.png",
+        "rightMainImage": "_nuxt/img/1a6f2082-fb2f-4ffe-99b1-61b899680eff.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/22bdd753-2d19-46eb-ac4f-1ff968514df4.png",
+        "rightMainImage": "_nuxt/img/39aa19c8-65e7-455b-9ea6-488c9551e890.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1030,119 +1165,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/d1b9cdd6-b81e-46d9-8b1b-dff869eefe58.png",
+        "rightMainImage": "_nuxt/img/46469c6c-a5a9-452a-8376-9152f13704e5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/53e8b389-6ddd-4ec1-a3f9-740d835a6fc9.png",
+        "rightMainImage": "_nuxt/img/8bc3d05d-83dc-41f7-9c69-b2b13565a3a9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/da7a3739-fc61-4020-86c2-17863b575e58.png",
+        "rightMainImage": "_nuxt/img/0eda1659-662e-499d-b86a-61c1287f937c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/2db2cfc0-b6d9-4886-9c2d-5f60eeb476aa.png",
+        "rightMainImage": "_nuxt/img/ac66626e-b8e6-4b7f-b994-5bd1848628eb.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/2e145bb8-72ae-424a-be09-ab8bf48f6128.png",
+        "rightMainImage": "_nuxt/img/2c35bb95-c0d0-4e9d-a073-94d06fb69383.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/e145a30e-eaba-4a2a-8454-5c69b5e51e69.png",
+        "rightMainImage": "_nuxt/img/9ab108d3-5a4e-491e-a6f8-23de33d3d274.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/75eef93a-dfb8-4c02-b2bd-793e927307a0.png",
+        "rightMainImage": "_nuxt/img/3d9d7977-2884-412b-927e-3484791971ec.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/5be8d5a6-0285-4f1e-933f-34fdbf3d33b3.png",
+        "rightMainImage": "_nuxt/img/006a7bca-9f98-4846-801e-a851df8865dc.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "leftMainImage": "_nuxt/img/b4cfd8ca-4794-4cf0-9635-75bcf0c5a112.png",
+        "rightMainImage": "_nuxt/img/d45556c4-38cb-4ed9-b6c6-68faceae79b4.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/2a4b0bee-c7b6-4bd8-b1ef-9e7102b9a597.png",
+        "rightMainImage": "_nuxt/img/4d3798aa-62fd-48db-b9ae-f9715b097924.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/984e2e56-b73b-434f-9a29-d1135b213e14.png",
+        "rightMainImage": "_nuxt/img/9608eed6-4054-41ad-8963-f833a7244c88.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/4acbb446-1950-4afe-8030-86ece81690d1.png",
+        "rightMainImage": "_nuxt/img/51bc459f-6ded-4ae4-8e1e-e2cf63bbde1b.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/76ef3382-c9af-4ada-a210-f1af2d5e7649.png",
+        "rightMainImage": "_nuxt/img/1ff30164-db33-48d8-b205-728005330f16.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "leftMainImage": "_nuxt/img/3b66fc72-9cd3-49a5-b398-9a05d3ba9aa6.png",
+        "rightMainImage": "_nuxt/img/ee981b93-f5b7-4c5f-a6fa-8327ccb92764.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/d7606552-f8f5-42d0-8810-9dea1867852a.png",
+        "rightMainImage": "_nuxt/img/917a3f97-5ad4-4183-bbbd-87038dc553f9.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1162,9 +1315,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/439634c7-b7c9-4fcf-bbb5-6ab1f97a8d9f.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1177,37 +1331,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "image": "_nuxt/img/fe88a69d-a08e-4edb-ba7d-250fe7f81ddf.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/9cb427e6-cba3-4a82-be0d-a437a4a6b27b.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "image": "_nuxt/img/696ae28a-6d78-4f6b-8f40-fe8666ad9062.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/de8aae84-7d9d-4e36-afdf-846bf8e221ee.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "image": "_nuxt/img/4889c0b9-625d-45dc-80e4-23f00690e3fa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/5f2963bf-b4e2-4331-a5b7-594ee0dea139.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "image": "_nuxt/img/e527b765-2c5b-409d-8fc6-171ef31782c8.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/47fa9637-6a8e-41e4-a4bb-f46c1b5426ad.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
@@ -1220,9 +1379,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "rightMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
@@ -1235,44 +1395,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
+        "image": "_nuxt/img/5fb17701-3edf-4b95-a3ba-b19678ccd7b5.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/26d3f07d-a9bf-4ab1-ad6a-d4991309de25.png",
+        "rightMainImage": "_nuxt/img/a2bababb-d56a-4a9e-af50-4fa4dcd9c52c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
+        "image": "_nuxt/img/ba422d28-1369-468d-8e86-d92ed6c95c59.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e5b3f21d-ab4e-465b-b288-f540230badd3.png",
+        "rightMainImage": "_nuxt/img/2bfe06d2-e93c-427c-8ee2-4ed6811577a5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
+        "image": "_nuxt/img/6fb73693-a6a2-4824-8543-cde329c0e2e1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/1f05bf99-c300-42ea-a9b3-c0b4615a3735.png",
+        "rightMainImage": "_nuxt/img/28aa61d0-8feb-4d59-9763-11b678a0309f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
+        "image": "_nuxt/img/c7fca261-9beb-4b1d-897d-4e783081dc93.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/ec61deea-fd47-4838-9bf9-3bd6faf95118.png",
+        "rightMainImage": "_nuxt/img/9750857f-80e6-4a62-a20c-fc6afe8a6b41.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
+        "image": "_nuxt/img/7f82b71a-0492-4857-a335-90145a5f0f7f.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/8cc41103-1f9a-48ee-960b-50bd034697a6.png",
+        "rightMainImage": "_nuxt/img/3488037d-17e6-4056-a16d-c4212bd4db24.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
+        "image": "_nuxt/img/2c7934b8-0985-4702-8e1a-96077dd13b95.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/58a0712c-3b9a-4bea-a238-5178afb5b3cc.png",
+        "rightMainImage": "_nuxt/img/516800ca-6bf3-4d7b-addf-0980a9f44bb5.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1285,44 +1457,56 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "image": "_nuxt/img/7d283337-daa1-48a4-85c2-3703e86a74a6.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/cd02c78f-03d5-449b-9ef5-99e3733fe9ee.png",
+        "rightMainImage": "_nuxt/img/88baf8a3-e85e-492c-9c81-23dac003e5e3.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "image": "_nuxt/img/1b841a0a-36de-49b6-b0fb-59276d3d9b74.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/31eb0d23-649c-44ac-a6bb-35aaf4886a3a.png",
+        "rightMainImage": "_nuxt/img/13914b96-4423-409a-a1a3-ab8fe2c897a9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
+        "image": "_nuxt/img/8b33926c-08e1-4a8f-997c-d59113df4e37.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/83303ffd-bbde-4ae3-8aa0-5d44b2ed1e20.png",
+        "rightMainImage": "_nuxt/img/1bfacf2b-6e90-408a-986b-166122668e5c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
+        "image": "_nuxt/img/66c48e73-62dd-4739-a609-be08341c1189.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/6882be57-6e4c-47a7-93d4-126aed5dcd7a.png",
+        "rightMainImage": "_nuxt/img/745b7832-8307-43c2-8ca1-df4ca9e84825.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
+        "image": "_nuxt/img/14e484de-fcb6-4ed8-afa5-ab64f60618b1.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/7b3c2005-5fcc-4fd0-a779-94e59f5726e4.png",
+        "rightMainImage": "_nuxt/img/a86664ae-6812-40fd-810f-21481d7ef1dc.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "image": "_nuxt/img/c35298ef-af54-4029-891f-c7ae91bbe9c7.jpeg",
         "isPlastic": false,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/1a60a32e-c8fe-4ce3-879c-0bad77ab281c.png",
+        "rightMainImage": "_nuxt/img/85cb7a5f-10cc-4aa6-8811-3831bf94eb0d.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1335,126 +1519,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/306df4e1-3ca1-4970-8cec-9956cad955d5.png",
+        "rightMainImage": "_nuxt/img/104f9407-3412-4175-b085-9580ca32c209.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/4f604e5c-14df-4e2d-bd37-45010b5acc91.png",
+        "rightMainImage": "_nuxt/img/5e798729-506a-49c1-9102-67202188762c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/5d8300ad-be4a-4d52-bce8-83145dea867f.png",
+        "rightMainImage": "_nuxt/img/06d678f8-7138-4bb1-b9cb-5c5532397736.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/fecd0014-43e6-4cbe-98fe-f6a5def45c4d.png",
+        "rightMainImage": "_nuxt/img/a25b2429-d8cc-4d99-9e2b-e607240bb6eb.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/48a3626a-d433-462e-a9bf-5463fa1acdb3.png",
+        "rightMainImage": "_nuxt/img/233cdc8b-87d1-418e-a96c-0a9fd9aec995.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/7916baef-c8d7-4478-886e-0326cb581058.png",
+        "rightMainImage": "_nuxt/img/e35aba7d-ad67-475f-883d-5b337b7ec1a2.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/85948202-9eb0-40cc-83cd-6bf5b69b25d2.png",
+        "rightMainImage": "_nuxt/img/5332bc4d-5d22-4148-a211-9d00348e3c73.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20820-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/8b720d32-8d1f-4ef3-9b0c-8ef17bed9760.png",
+        "rightMainImage": "_nuxt/img/4e781972-57d1-4de6-b81f-f97c0ce565f9.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "leftMainImage": "_nuxt/img/15befd50-5c4a-4eb5-9dfa-940557e14ee7.png",
+        "rightMainImage": "_nuxt/img/cfa902e4-1e54-4daa-98bf-ee7946f9d305.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png",
+        "leftMainImage": "_nuxt/img/d17436d6-d346-4b90-94da-794e72dcd5bb.png",
+        "rightMainImage": "_nuxt/img/7c0ebfb8-7c4d-4e92-907d-b0be9162f588.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
+        "leftMainImage": "_nuxt/img/995cc911-21ad-4ca4-93ad-5517a212990c.png",
+        "rightMainImage": "_nuxt/img/45514410-c16c-4d0e-bfd6-d62644ab5c1c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201220-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bdd0b8d0bad0b5d0bbd18c_png",
+        "leftMainImage": "_nuxt/img/c7818cf2-ac87-47e5-89d3-cf9a0878e20f.png",
+        "rightMainImage": "_nuxt/img/66e6cdf0-15f7-4d1a-b3ea-e9843af6908a.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png",
+        "leftMainImage": "_nuxt/img/ce78bd4b-bfa2-45c7-8e30-991d24937e8c.png",
+        "rightMainImage": "_nuxt/img/6faf4ed4-b38a-4eed-8556-9745c3d85e4f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png",
-        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png",
+        "leftMainImage": "_nuxt/img/67d16bfd-4e3a-4024-8f57-7e7d62163b1a.png",
+        "rightMainImage": "_nuxt/img/12d92f51-8f3b-4edc-88e4-cb3cde03ed82.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201520-20d0a1d0b2_d0bbd0b0d182d183d0bdd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
+        "leftMainImage": "_nuxt/img/f3aa14b9-169c-4205-93da-ab85764f1a03.png",
+        "rightMainImage": "_nuxt/img/c402a090-adde-47cf-a829-5ae3e9553bde.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1467,107 +1662,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/46e07c72-8af9-493b-a5af-74c6dedd07ec.png",
+        "rightMainImage": "_nuxt/img/99d75b9b-4864-45db-9c1b-b1def9f101fe.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/0851cd13-92da-43ba-a62f-4defd425f43c.png",
+        "rightMainImage": "_nuxt/img/5b175a7e-40bb-49e8-87ca-d173f46d38d4.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/b8d23cc3-6a79-41e3-84c5-8f3e447fafe4.png",
+        "rightMainImage": "_nuxt/img/1e7ca826-9d69-455a-b31e-8aaab4302cfc.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/cb0070f4-1676-4b9e-a372-c1265c747fa6.png",
+        "rightMainImage": "_nuxt/img/217c7708-ed88-4290-b3d4-767b4120a747.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/828b4e95-3709-4a50-986f-466068e3cee3.png",
+        "rightMainImage": "_nuxt/img/8674b5b7-8571-4709-982f-937b9f28afd7.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e9566194-b132-4420-9863-9b22a84c4548.png",
+        "rightMainImage": "_nuxt/img/a4ac1c1a-6493-450b-8392-2fc46044e678.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/83e9023b-fe58-4754-9194-0b62bd750980.png",
+        "rightMainImage": "_nuxt/img/81ee97e2-a9d1-43b3-8f98-6af3b2d2066f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/8b7d5c22-031d-41d4-b43f-0278c5bdf6c8.png",
+        "rightMainImage": "_nuxt/img/a6a0c89f-45db-4403-a5ba-1b38cfce393c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/4257b2e8-c4a7-4f91-866d-4dbf20bee443.png",
+        "rightMainImage": "_nuxt/img/a611d049-1e4c-4b66-9a44-bc2e60771e5c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/07dfb965-30a6-4607-b4b6-b0faf43f0396.png",
+        "rightMainImage": "_nuxt/img/e46329ae-695a-4c8b-8344-e30c15d25e7c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/3c3851bc-7d1a-468a-adf0-3a80a8d2292c.png",
+        "rightMainImage": "_nuxt/img/e60f7379-bd4d-4b61-b998-32650b267f4c.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/7a3ebb8f-1077-42ae-98c2-cef576f0e2b2.png",
+        "rightMainImage": "_nuxt/img/a36199e7-95fe-478d-a5ac-02b99eb13d4b.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/49fdfb9b-9970-4d78-b3d7-81f1fed1b716.png",
+        "rightMainImage": "_nuxt/img/eb1d218b-46f8-4f6a-8977-353c9ce5958d.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/b5fa2759-3dac-4e7c-8e74-626e6c319212.png",
+        "rightMainImage": "_nuxt/img/0b304eb2-e138-4a2c-a113-5159c9211746.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/d8d0e4e4-97d7-4f61-85a1-7239d8f8da4c.png",
+        "rightMainImage": "_nuxt/img/f2f85d03-00e9-4649-a495-8605654e3da8.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1580,107 +1805,137 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
+        "image": "_nuxt/img/befce19c-f203-43e9-b640-fcbdf159a95e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/86e737d4-af41-4503-96c8-a9fbbcfe54ed.png",
+        "rightMainImage": "_nuxt/img/c8210344-d6bc-46fa-901e-605a5a697b02.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
+        "image": "_nuxt/img/d9de9526-d3f8-4b7f-ba88-c809707820d9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/12eb1a5f-bd59-4c1e-913b-7440f25fa779.png",
+        "rightMainImage": "_nuxt/img/c56a0d7a-54d1-446b-bb76-0f0186164369.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
+        "image": "_nuxt/img/41ee33d0-e9fe-4a88-8042-67035e118d4e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/e6cb7522-1276-4c57-811e-b8c2ed966084.png",
+        "rightMainImage": "_nuxt/img/03c94508-7bc1-4596-9e13-4ba545eeb7e5.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
+        "image": "_nuxt/img/c3c1a1dc-fa1e-4d90-8382-4d63e57000a9.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/ae58ce3c-fc37-429f-a6ea-f6129ec7e15d.png",
+        "rightMainImage": "_nuxt/img/b08835c4-c7e6-44f0-8f85-15cdaecebbd6.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
+        "image": "_nuxt/img/f55b925b-8dca-4526-93e7-8353bcc063a3.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/858d21d1-1277-4722-a76c-5b08ed9ffd16.png",
+        "rightMainImage": "_nuxt/img/7e4f7d7c-f283-4254-88e0-8315405330cd.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
+        "image": "_nuxt/img/a6631dfe-5342-4805-b8ea-9fe25f024dad.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/01a52690-7c48-4074-b762-96d887e6029f.png",
+        "rightMainImage": "_nuxt/img/96108a13-0b99-446a-9d06-09d513190358.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
+        "image": "_nuxt/img/78958f2d-470b-45ca-8f4c-2c85546ebae1.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/21de0885-4bdd-4803-b5e0-629211f7d89a.png",
+        "rightMainImage": "_nuxt/img/4644e0b3-6b8f-4102-adf8-62d041cf552f.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
+        "image": "_nuxt/img/531965ed-34b1-4845-b7b8-567ccff78f1e.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/3a48d847-28a1-48f3-b8bd-f806f4e486e2.png",
+        "rightMainImage": "_nuxt/img/6bd87fa1-0db9-4d61-897d-5067f4daf291.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
+        "image": "_nuxt/img/91029f36-a021-438b-920f-e3deb3afd32c.jpeg",
         "isPlastic": true,
         "isMetallic": false,
+        "leftMainImage": "_nuxt/img/776e6778-ae68-4727-8395-0504d63c6960.png",
+        "rightMainImage": "_nuxt/img/daf0cddb-f540-414f-8814-d2a9505512e1.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
+        "image": "_nuxt/img/45a95156-4678-4bd9-b982-f8baa9c142ed.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/05ff57bf-e423-482e-9afd-53615cd6984a.png",
+        "rightMainImage": "_nuxt/img/1ff3848f-1ce6-47fc-bb64-47046f9c5874.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
+        "image": "_nuxt/img/b3f4eebe-617a-4651-81cf-2c8470764630.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/f4d37aeb-d39e-4054-9cfb-e7328bee5a91.png",
+        "rightMainImage": "_nuxt/img/c2154001-6220-4b51-af3f-72fa44bc018e.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
+        "image": "_nuxt/img/6d261fdf-e14d-4f17-b2f9-f2247452ed0e.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/94895983-1afd-4d0e-a563-fe73f3f43471.png",
+        "rightMainImage": "_nuxt/img/6cb5c389-641a-4f09-9d7e-33364c4e6840.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
+        "image": "_nuxt/img/7fd16abf-e789-4f30-93c7-a39bcfd5268f.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/697eef61-2cee-4e56-bfd3-4140e65b7a91.png",
+        "rightMainImage": "_nuxt/img/268320fc-c06c-4f9b-bf24-c3d8f515dc3e.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
+        "image": "_nuxt/img/1840a092-a91a-4c51-8c7e-7e049ab93406.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/3892446a-e3d6-43f4-935a-89a74ee5fabe.png",
+        "rightMainImage": "_nuxt/img/1a6f2082-fb2f-4ffe-99b1-61b899680eff.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
+        "image": "_nuxt/img/a5686aba-0034-4438-ad8c-4e66205f48ab.jpeg",
         "isPlastic": false,
         "isMetallic": true,
+        "leftMainImage": "_nuxt/img/22bdd753-2d19-46eb-ac4f-1ff968514df4.png",
+        "rightMainImage": "_nuxt/img/39aa19c8-65e7-455b-9ea6-488c9551e890.png",
         "layer": "Управление (4 слой)"
       }
     ],

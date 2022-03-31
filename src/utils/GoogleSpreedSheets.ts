@@ -69,10 +69,8 @@ class GoogleSpreadSheets {
     }
 
     // If image already handled in runtime
-    if (this.imageDict[yandexDiskUrl] && yandexDiskUrl === this.imageDict[yandexDiskUrl].url) {
-      console.log(`Exist: ${this.imageDict[yandexDiskUrl].url}`);
-      return `_nuxt/img/${this.imageDict[yandexDiskUrl].fileName}`
-    }
+    if (this.imageDict[yandexDiskUrl] && yandexDiskUrl === this.imageDict[yandexDiskUrl].url) return `_nuxt/img/${this.imageDict[yandexDiskUrl].fileName}.${this.imageDict[yandexDiskUrl].extension}`
+
     // If extra image already handled in runtime
     if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[generatedFileName]}`
 
@@ -107,6 +105,7 @@ class GoogleSpreadSheets {
         fileName: generatedFileName,
         path: uploadPath
       }
+      console.log(`Success: ${title} - ${generatedFileName}.${extension}`);
       return  `_nuxt/img/${generatedFileName}.${extension}`
     } catch (e) {
       console.log(e);
@@ -199,18 +198,6 @@ class GoogleSpreadSheets {
     )
     console.log('Extra system elements: success');
 
-    fs.writeFileSync(
-      './metadata/images.json',
-      JSON.stringify(this.imageDict, null, 2)
-    )
-    console.log(`Images: ${Object.keys(this.imageDict).length}`);
-
-    fs.writeFileSync(
-      './metadata/images_extra.json',
-      JSON.stringify(this.extraImageDict, null, 2)
-    )
-    console.log(`Extra images: ${Object.keys(this.extraImageDict).length}`);
-
     fs.writeFileSync('./metadata/fabrics.json', JSON.stringify([
       ...this.classicFabrics,
       ...this.dayNightFabrics
@@ -230,6 +217,18 @@ class GoogleSpreadSheets {
       ],
     }, null, 2))
     console.log('Full data: success');
+
+    fs.writeFileSync(
+      './metadata/images.json',
+      JSON.stringify(this.imageDict, null, 2)
+    )
+    console.log(`Images: ${Object.keys(this.imageDict).length}`);
+
+    fs.writeFileSync(
+      './metadata/images_extra.json',
+      JSON.stringify(this.extraImageDict, null, 2)
+    )
+    console.log(`Extra images: ${Object.keys(this.extraImageDict).length}`);
 
     fs.writeFileSync(
       './metadata/images_error.json',
