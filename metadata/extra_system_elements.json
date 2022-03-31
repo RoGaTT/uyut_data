@@ -774,6 +774,14 @@
     "type": "weighting"
   },
   {
+    "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/QsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8=",
+    "title": "Базовая комплектация",
+    "colorList": [],
+    "image": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
+    "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5",
+    "type": "weighting"
+  },
+  {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4ICjQsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8p",
     "title": "Боковая фиксация тросиками (базовая комплектация)",
     "colorList": [],
@@ -1315,10 +1323,6 @@
       {
         "title": "Коричневый",
         "image": "_nuxt/img/002ad36a-15ad-48ab-a225-1936ebef4c55.jpeg"
-      },
-      {
-        "title": "Темно-коричневый",
-        "image": "_nuxt/img/37490dd3-c477-4771-b5f3-bc7bb6a3c65a.jpeg"
       }
     ],
     "image": "_nuxt/img/4646caaf-401b-475f-8d7d-7cf7da572342.png",

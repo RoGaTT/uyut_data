@@ -1581,6 +1581,7 @@
           "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/439634c7-b7c9-4fcf-bbb5-6ab1f97a8d9f.png",
           "rightMainImage": "_nuxt/img/439634c7-b7c9-4fcf-bbb5-6ab1f97a8d9f.png",
           "layer": "Управление (4 слой)"
         }
@@ -1597,6 +1598,7 @@
           "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
           "rightMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
           "layer": "Утяжелитель (2 слой)"
         },
@@ -1605,6 +1607,7 @@
           "image": "_nuxt/img/fe88a69d-a08e-4edb-ba7d-250fe7f81ddf.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/9cb427e6-cba3-4a82-be0d-a437a4a6b27b.png",
           "rightMainImage": "_nuxt/img/9cb427e6-cba3-4a82-be0d-a437a4a6b27b.png",
           "layer": "Утяжелитель (2 слой)"
         },
@@ -1613,6 +1616,7 @@
           "image": "_nuxt/img/696ae28a-6d78-4f6b-8f40-fe8666ad9062.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/de8aae84-7d9d-4e36-afdf-846bf8e221ee.png",
           "rightMainImage": "_nuxt/img/de8aae84-7d9d-4e36-afdf-846bf8e221ee.png",
           "layer": "Утяжелитель (2 слой)"
         },
@@ -1621,6 +1625,7 @@
           "image": "_nuxt/img/4889c0b9-625d-45dc-80e4-23f00690e3fa.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/5f2963bf-b4e2-4331-a5b7-594ee0dea139.png",
           "rightMainImage": "_nuxt/img/5f2963bf-b4e2-4331-a5b7-594ee0dea139.png",
           "layer": "Утяжелитель (2 слой)"
         },
@@ -1629,6 +1634,7 @@
           "image": "_nuxt/img/e527b765-2c5b-409d-8fc6-171ef31782c8.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/47fa9637-6a8e-41e4-a4bb-f46c1b5426ad.png",
           "rightMainImage": "_nuxt/img/47fa9637-6a8e-41e4-a4bb-f46c1b5426ad.png",
           "layer": "Утяжелитель (2 слой)"
         }
@@ -1645,6 +1651,7 @@
           "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
           "isPlastic": false,
           "isMetallic": false,
+          "leftMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
           "rightMainImage": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
           "layer": "Утяжелитель (2 слой)"
         }
@@ -4019,6 +4026,14 @@
       "type": "weighting"
     },
     {
+      "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/QsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8=",
+      "title": "Базовая комплектация",
+      "colorList": [],
+      "image": "_nuxt/img/11a19b08-57b4-4ff4-a032-ca884ae71e10.png",
+      "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5",
+      "type": "weighting"
+    },
+    {
       "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4ICjQsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8p",
       "title": "Боковая фиксация тросиками (базовая комплектация)",
       "colorList": [],
@@ -4560,10 +4575,6 @@
         {
           "title": "Коричневый",
           "image": "_nuxt/img/002ad36a-15ad-48ab-a225-1936ebef4c55.jpeg"
-        },
-        {
-          "title": "Темно-коричневый",
-          "image": "_nuxt/img/37490dd3-c477-4771-b5f3-bc7bb6a3c65a.jpeg"
         }
       ],
       "image": "_nuxt/img/4646caaf-401b-475f-8d7d-7cf7da572342.png",
