@@ -11,6 +11,7 @@ import IMAGE_DICT from "../data/images";
 // @ts-ignore
 import tranlitNpm from 'translit-npm'
 import { generateHash } from "./crypt";
+import { randomUUID } from "crypto";
 
 class GoogleSpreadSheets {
   private auth: GoogleAuth;
@@ -54,7 +55,7 @@ class GoogleSpreadSheets {
     }
   }
 
-  private async downloadImage(title: string, yandexDiskUrl: string, isSuccessLog?: boolean): Promise<string | undefined> {
+  private async downloadImage(title: string, yandexDiskUrl: string): Promise<string | undefined> {
     let downloadUrl = yandexDiskUrl
     if (!downloadUrl) return undefined
 
@@ -62,23 +63,18 @@ class GoogleSpreadSheets {
     if (yandexDiskUrl.includes('disk')) downloadUrl = `https://getfile.dokpub.com/yandex/get/${yandexDiskUrl}`
 
     // Filename without extension and extra symbols, for using as a key and filename
-    const formattedFileName = translit.transliterate(yandexDiskUrl.toLocaleLowerCase(), {
-      trim: true,
-      replaceAfter: {
-        ' ': '_',
-        '/': '-',
-        '"': '',
-        "%": '',
-        '.': '_',
-        '(': '',
-        ')': ''
-      }
-    })
+    let generatedFileName = randomUUID()
+    while (this.imageDict[generatedFileName]) {
+      generatedFileName = randomUUID()
+    }
 
     // If image already handled in runtime
-    if (this.imageDict[formattedFileName] && yandexDiskUrl === this.imageDict[formattedFileName].url) return `_nuxt/img/${this.imageDict[formattedFileName].fileName}`
+    if (this.imageDict[yandexDiskUrl] && yandexDiskUrl === this.imageDict[yandexDiskUrl].url) {
+      console.log(`Exist: ${this.imageDict[yandexDiskUrl].url}`);
+      return `_nuxt/img/${this.imageDict[yandexDiskUrl].fileName}`
+    }
     // If extra image already handled in runtime
-    if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[formattedFileName]}`
+    if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[generatedFileName]}`
 
     try {
       // Download image
@@ -90,7 +86,7 @@ class GoogleSpreadSheets {
       // Image extension
       const extension = mime.extension(response.headers['content-type']) || 'png'
       // Uplaod path for saving new file      
-      const uploadPath = `metadata/images/${formattedFileName}.${extension}`
+      const uploadPath = `metadata/images/${generatedFileName}.${extension}`
       // Writer for new file
       const writer = fs.createWriteStream(uploadPath)
       response.data.pipe(writer)
@@ -100,19 +96,18 @@ class GoogleSpreadSheets {
           resolve('')
         })
         writer.on('error', (e) => {
-          reject()
+          reject(e)
         })
       })
-      console.log(`${title}: success`);
 
-      this.imageDict[formattedFileName] = {
+      this.imageDict[yandexDiskUrl] = {
         url: yandexDiskUrl,
         downloadUrl: downloadUrl,
         extension: extension,
-        fileName: formattedFileName,
+        fileName: generatedFileName,
         path: uploadPath
       }
-      return  `_nuxt/img/${formattedFileName}.${extension}`
+      return  `_nuxt/img/${generatedFileName}.${extension}`
     } catch (e) {
       console.log(e);
       // If error write to query for handling
@@ -124,7 +119,7 @@ class GoogleSpreadSheets {
   }
 
   private async generateImageUrl(title: string, url: string) {
-    return await this.downloadImage(title, url, true)
+    return await this.downloadImage(title, url)
   }
 
   private generateBase64Id(key: string) {
