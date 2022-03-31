@@ -72,7 +72,7 @@ class GoogleSpreadSheets {
     if (this.imageDict[yandexDiskUrl] && yandexDiskUrl === this.imageDict[yandexDiskUrl].url) return `_nuxt/img/${this.imageDict[yandexDiskUrl].fileName}.${this.imageDict[yandexDiskUrl].extension}`
 
     // If extra image already handled in runtime
-    if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[generatedFileName]}`
+    if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[yandexDiskUrl]}`
 
     try {
       // Download image
