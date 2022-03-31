@@ -84,7 +84,7 @@ class GoogleSpreadSheets {
       // Image extension
       const extension = mime.extension(response.headers['content-type']) || 'png'
       // Uplaod path for saving new file      
-      const uploadPath = `metadata/images/${generatedFileName}.${extension}`
+      const uploadPath = `metadata/parsed_images/${generatedFileName}.${extension}`
       // Writer for new file
       const writer = fs.createWriteStream(uploadPath)
       response.data.pipe(writer)
