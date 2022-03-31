@@ -4417,6 +4417,38 @@
       "type": "fixation"
     },
     {
+      "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0LlfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0LXQtyDRhNC40LrRgdCw0YbQuNC4ICjQsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8p",
+      "title": "Без фиксации (базовая комплектация)",
+      "colorList": [],
+      "image": "",
+      "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0Lk=",
+      "type": "fixation"
+    },
+    {
+      "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0LlfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4",
+      "title": "Боковая фиксация тросиками",
+      "colorList": [],
+      "image": "_nuxt/img/71694fc6-ba37-4a8e-b273-d3d2dc9f943d.png",
+      "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0Lk=",
+      "type": "fixation"
+    },
+    {
+      "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/RhNC40LrRgdCw0YbQuNGPX1/QsdC10Lcg0YTQuNC60YHQsNGG0LjQuCAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
+      "title": "Без фиксации (базовая комплектация)",
+      "colorList": [],
+      "image": "",
+      "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5",
+      "type": "fixation"
+    },
+    {
+      "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/RhNC40LrRgdCw0YbQuNGPX1/QsdC+0LrQvtCy0LDRjyDRhNC40LrRgdCw0YbQuNGPINGC0YDQvtGB0LjQutCw0LzQuA==",
+      "title": "Боковая фиксация тросиками",
+      "colorList": [],
+      "image": "_nuxt/img/71694fc6-ba37-4a8e-b273-d3d2dc9f943d.png",
+      "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5",
+      "type": "fixation"
+    },
+    {
       "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/RhNC40LrRgdCw0YbQuNGPX1/QsdC+0LrQvtCy0LDRjyDRhNC40LrRgdCw0YbQuNGPINC70LXRgdC60L7QuSAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
       "title": "Боковая фиксация леской (базовая комплектация)",
       "colorList": [],
