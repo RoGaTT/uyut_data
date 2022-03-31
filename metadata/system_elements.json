@@ -5,50 +5,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_1.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__vanil__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d092d0b0d0bdd0b8d0bbd18c20d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b5d180d18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d090d0bdd182d180d0b0d186d0b8d18220d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a7d0b5d180d0bdd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_mehanizma__bronza__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-620-20d091d180d0bed0bdd0b7d0b020d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -61,50 +61,47 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d0b1d0b5d0bbd0b0d18f_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d181d0b5d180d0b0d18f_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d187d0b5d180d0bdd0b0d18f_png.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -117,10 +114,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -133,42 +129,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad181_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d0a1d0b5d180d18bd0b8cc8620d09bd18ed0bad181_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d091d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg.jpeg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a2d0b5d0bcd0bdd0be-d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -181,10 +177,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -197,10 +192,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -213,10 +207,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad1812050_png.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -229,10 +223,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__rama_plyus__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-820-20d0a0d0b0d0bcd0b020d0bfd0bbd18ed181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d0a0d0b0d0bcd0b020d09fd0bbd18ed181_png.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -245,10 +239,10 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__standart_pruzhinnyy__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-i-0jdhlimj2-98dw.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -261,10 +255,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_kassetnyy_pruzhinnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -277,50 +270,50 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_1.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__vanil__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d092d0b0d0bdd0b8d0bbd18c20d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b5d180d18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__antracit__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d090d0bdd182d180d0b0d186d0b8d18220d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a7d0b5d180d0bdd18bd0b8cc8620d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_mehanizma__bronza__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-620-20d091d180d0bed0bdd0b7d0b020d181d0b8d181d182d0b5d0bcd0b020d09cd0b8d0bdd0b8_png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -333,50 +326,47 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d0b1d0b5d0bbd0b0d18f_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d181d0b5d180d0b0d18f_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__svetlyy_dub__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__temno-korichnevyy__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__antracit__right.png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_mehanizma__chernyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-220-20d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b0-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b020d187d0b5d180d0bdd0b0d18f_png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -389,42 +379,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__belyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-120-20d091d0b5d0bbd18bd0b8cc8620d09bd18ed0bad181_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__seryy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-220-20d0a1d0b5d180d18bd0b8cc8620d09bd18ed0bad181_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__svetlo-bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-320-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__bezhevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-420-20d091d0b5d0b6d0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
         "layer": "Система (3 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_mehanizma__temno-korichnevyy__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a1d0b8d181d182d0b5d0bcd0b020320d181d0bbd0bed0b8cc86-520-20d0a2d0b5d0bcd0bdd0be-d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc8620d09bd18ed0bad181_png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -437,10 +427,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -453,10 +442,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_mehanizma__belyy__right.png",
         "layer": "Система (3 слой)"
       }
     ],
@@ -469,56 +457,44 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_1.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__mini__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -531,56 +507,44 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__minikasseta__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -593,137 +557,109 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__svetlo-bezhevyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-320-20d0a1d182d0b0d0bdd0b4d0b0d180d182-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20420-20d0a1d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g.jpeg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-320-20d0a1d182d0b0d0bdd0b4d0b0d180d182-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa.jpeg",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__standart__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -736,137 +672,126 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20820-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__chernyy_nikel__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201220-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bdd0b8d0bad0b5d0bbd18c_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201520-20d0a1d0b2_d0bbd0b0d182d183d0bdd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -879,137 +804,107 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1022,137 +917,107 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1165,137 +1030,119 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-720-20d09bd18ed0bad1812050-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1315,10 +1162,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__standart_pruzhinnyy__cvet_ruchki__belyy__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1331,42 +1177,37 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__belyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__seryy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__svetlo-bezhevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__bezhevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_pruzhinnyy__cvet_shnura_i_utyazhelitelya__temno-korichnevyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
@@ -1379,10 +1220,9 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
         "isPlastic": false,
         "isMetallic": false,
-        "rightMainImage": "_nuxt/img/upravlenie_pruzhinnoe__lyuks_kassetnyy_pruzhinnyy__cvet_shnura_i_utyazhelitelya__belyy__right.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
@@ -1395,56 +1235,44 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_1.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-pnagdrz3mo_awa",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-qzi3sshvtvh1la",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-k2e2bxnkn09lyw",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rzxyr1xsolsf4q",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yzkupztki7rfia",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vwmkn1owvlavva",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__mini__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1457,56 +1285,44 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__svetlyy_dub__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__temno-korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
         "isPlastic": false,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__minikasseta__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1519,137 +1335,126 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20120-20d091d0b5d0bbd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__seryy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20220-20d0a1d0b5d180d18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__vanil__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20620-20d092d0b0d0bdd0b8d0bbd18c20d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20820-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f20920-20d091d180d0bed0bdd0b7d0b020d0bfd0bbd0b0d181d182d0b8d0ba_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__belyy__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201020-20d091d0b5d0bbd18bd0b8cc8620d0bcd0b5d182d0b0d0bbd0bb_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__stal__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201120-20d0a1d182d0b0d0bbd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__chernyy_nikel__right.png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201220-20d0a7d0b5d180d0bdd18bd0b8cc8620d0bdd0b8d0bad0b5d0bbd18c_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__med__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201320-20d09cd0b5d0b4d18c20d0bcd0b5d182d0b0d0bbd0bb_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__bronza__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png",
+        "rightMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bfd180d0b0d0b2d0b0d18f201420-20d091d180d0bed0bdd0b7d0b020d0bcd0b5d182d0b0d0bbd0bb_png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks__cvet_cepochki__latun__right.png",
+        "leftMainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d0bfd180d0b0d0b2d0bbd0b5d0bdd0b8d0b520420d181d0bbd0bed0b8cc86-d0bbd0b5d0b2d0b0d18f201520-20d0a1d0b2_d0bbd0b0d182d183d0bdd18c20d0bcd0b5d182d0b0d0bbd0bb_png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1662,137 +1467,107 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],
@@ -1805,137 +1580,107 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_4.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-379uiyexok3ela",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-fj2lprom19hnzg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__seryy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-aif_e2eszfkyqg",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-c6rywz9z1cygkq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__svetlo-bezhevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-waol6gqv0larog",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__korichnevyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-stsw-ftuqgggaa",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__vanil__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rishfroykixala",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__antracit__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-7u3lcij_om5hzq",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rtfcvlemcrdi9g",
         "isPlastic": true,
         "isMetallic": false,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_5.jpg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-a4ix6ntqekq4ma",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__belyy__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Сталь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-r5zy_ummk6dikq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__stal__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Черный никель",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ro2i1lvgpe7gfw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__chernyy_nikel__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Медь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ckvjzhxfbikebw",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__med__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vbtx-rnlml9_dq",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__bronza__right.png",
         "layer": "Управление (4 слой)"
       },
       {
         "title": "Латунь",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun.jpeg",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2_xpdclkc6htaa",
         "isPlastic": false,
         "isMetallic": true,
-        "leftMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__left.png",
-        "rightMainImage": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__cvet_cepochki__latun__right.png",
         "layer": "Управление (4 слой)"
       }
     ],

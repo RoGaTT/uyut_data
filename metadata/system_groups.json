@@ -3,18 +3,18 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtQ==",
     "title": "Управление цепочное",
     "fabricCollectionType": "classic",
-    "image": "_nuxt/img/upravlenie_cepochnoe.png"
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-jp4v7muhzdhpjq.png"
   },
   {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1",
     "title": "Управление пружинное",
     "fabricCollectionType": "classic",
-    "image": "_nuxt/img/upravlenie_pruzhinnoe.png"
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-cxveo52kgigbog.png"
   },
   {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0Yw=",
     "title": "Управление День/Ночь",
     "fabricCollectionType": "day_night",
-    "image": "_nuxt/img/upravlenie_den-noch.png"
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-b1xolgkq_oyesg.png"
   }
 ]

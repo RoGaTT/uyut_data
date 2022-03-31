@@ -3,7 +3,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItC80LjQvdC4IiAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
     "title": "Утяжелитель \"Мини\" (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_mini_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -11,7 +11,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItGB0YLQsNC90LTQsNGA0YIi",
     "title": "Утяжелитель \"Стандарт\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_standart.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -21,11 +21,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png.png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -35,42 +35,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -80,36 +77,36 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20120d0b1d0b5d0bbd18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png.png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__utyazhelitel__utyazhelitel_lyuks.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w.png",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "weighting"
   },
@@ -117,7 +114,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgl9f0YPRgtGP0LbQtdC70LjRgtC10LvRjF9f0YPRgtGP0LbQtdC70LjRgtC10LvRjCAi0YHRgtCw0L3QtNCw0YDRgiIgKNCx0LDQt9C+0LLQsNGPINC60L7QvNC/0LvQtdC60YLQsNGG0LjRjyk=",
     "title": "Утяжелитель \"Стандарт\" (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_standart_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -125,7 +122,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgl9f0YPRgtGP0LbQtdC70LjRgtC10LvRjF9f0YPRgtGP0LbQtdC70LjRgtC10LvRjCAi0LzQuNC90Lgi",
     "title": "Утяжелитель \"Мини\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_mini.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -135,11 +132,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-320-20d0a1d182d0b0d0bdd0b4d0b0d180d182-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png.png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -149,42 +146,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -194,36 +188,36 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__utyazhelitel__utyazhelitel_lyuks.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "weighting"
   },
@@ -233,36 +227,36 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "weighting"
   },
@@ -270,7 +264,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YFfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItC80LjQvdC4Ig==",
     "title": "Утяжелитель \"Мини\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_mini.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "weighting"
   },
@@ -278,7 +272,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YFfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItGB0YLQsNC90LTQsNGA0YIi",
     "title": "Утяжелитель \"Стандарт\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_standart.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "weighting"
   },
@@ -288,11 +282,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png.png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "weighting"
   },
@@ -302,42 +296,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "weighting"
   },
@@ -347,36 +338,36 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -384,7 +375,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQvNC40L3QuCI=",
     "title": "Утяжелитель \"Мини\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_mini.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -392,7 +383,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLRgdGC0LDQvdC00LDRgNGCIg==",
     "title": "Утяжелитель \"Стандарт\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_standart.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -402,11 +393,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -416,42 +407,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -461,36 +449,36 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_3.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0bbr4gdsde_6oq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "weighting"
   },
@@ -498,7 +486,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0LlfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItC80LjQvdC4Ig==",
     "title": "Утяжелитель \"Мини\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_mini.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "weighting"
   },
@@ -506,7 +494,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0LlfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItGB0YLQsNC90LTQsNGA0YIi",
     "title": "Утяжелитель \"Стандарт\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_standart.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "weighting"
   },
@@ -516,11 +504,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "weighting"
   },
@@ -530,42 +518,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "weighting"
   },
@@ -575,30 +560,30 @@
     "colorList": [
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-rq2tski_y_hrwa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светло-бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__svetlo-bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ka6ht_j7ty321a",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20320d181d0b2_d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__bezhevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ghfya5dkfgwqcg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20420d0b1d0b5d0b6d0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-0oejdy32zli7bg",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09bd18ed0bad1812220-20520d0bad0bed180d0b8d187d0bdd0b5d0b2d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_lyuks_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-iskvedqiw77y8w",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "weighting"
   },
@@ -606,7 +591,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTBfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItC80LjQvdC4Ig==",
     "title": "Утяжелитель \"Мини\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_mini.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-amtg6d8eqpj9vg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "weighting"
   },
@@ -614,7 +599,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTBfX9GD0YLRj9C20LXQu9C40YLQtdC70YxfX9GD0YLRj9C20LXQu9C40YLQtdC70YwgItGB0YLQsNC90LTQsNGA0YIi",
     "title": "Утяжелитель \"Стандарт\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_standart.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-s1gpa_mis6cefg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "weighting"
   },
@@ -624,11 +609,11 @@
     "colorList": [
       {
         "title": "Стандартный",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_d15__standartnyy__main.png"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-420-20d09bd18ed0bad181-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d152220-20d0b0d0bbd18ed0bcd0b8d0bdd0b8d0b5d0b2d18bd0b8cc86_png"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_d15.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ofvnvt0wxsqqqa",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "weighting"
   },
@@ -638,42 +623,39 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_2.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__belyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-vt_pihvgat6l3g",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20120d0b1d0b5d0bbd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/grey.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__seryy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-2wiflwsijf9rjq",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20220d181d0b5d180d18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Светлый дуб",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__svetlyy_dub__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-sa1mjco_dqr0za",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/dark_brown.jpg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__temno-korichnevyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-j5dugxjpj6qqeq",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__antracit.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__antracit__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-yanlhnk5tpvibg",
         "layer": "Утяжелитель (2 слой)"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__chernyy.jpeg",
-        "mainImage": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta__chernyy__main.png",
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-o_yrnib49whqpa",
+        "mainImage": "_nuxt/img/https:--disk_yandex_ru-d-1z5pgsxiyqx0qw-d0a1d0b8d181d182d0b5d0bcd18b-120-20d09cd0b8d0bdd0b8-d0a3d182d18fd0b6d0b5d0bbd0b8d182d0b5d0bbd18c20220d181d0bbd0bed0b8cc86-22d09cd0b8d0bdd0b8d0bad0b0d181d181d0b5d182d0b02220-20620d187d0b5d180d0bdd18bd0b8cc86_png",
         "layer": "Утяжелитель (2 слой)"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__utyazhelitel__utyazhelitel_minikasseta.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-csrpurlonzn8mq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "weighting"
   },
@@ -681,7 +663,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQvNC40L3QuCIg0LTQtdC90Ywv0L3QvtGH0YwgKNCx0LDQt9C+0LLQsNGPINC60L7QvNC/0LvQtdC60YLQsNGG0LjRjyk=",
     "title": "Утяжелитель \"Мини\" день/ночь (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__utyazhelitel__utyazhelitel_mini_den-noch_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-pngdn-ap3bkofg.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "weighting"
   },
@@ -689,7 +671,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICJkMTAiINGB0YLQsNC70Yw=",
     "title": "Утяжелитель \"D10\" сталь",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__utyazhelitel__utyazhelitel_d10_stal.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-u6q_hmhwqraa9g.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "weighting"
   },
@@ -697,7 +679,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQu9GO0LrRgSAyIg==",
     "title": "Утяжелитель \"Люкс 2\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__utyazhelitel__utyazhelitel_lyuks_2.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ydtkal1fvos6iq.jpeg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "weighting"
   },
@@ -705,7 +687,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICJkMTAiINGB0YLQsNC70YwgKNCx0LDQt9C+0LLQsNGPINC60L7QvNC/0LvQtdC60YLQsNGG0LjRjyk=",
     "title": "Утяжелитель \"D10\" сталь (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__utyazhelitel__utyazhelitel_d10_stal_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-u6q_hmhwqraa9g",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "weighting"
   },
@@ -713,7 +695,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQvNC40L3QuCIg0LTQtdC90Ywv0L3QvtGH0Yw=",
     "title": "Утяжелитель \"Мини\" день/ночь",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__utyazhelitel__utyazhelitel_mini_den-noch.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-pngdn-ap3bkofg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "weighting"
   },
@@ -721,7 +703,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQu9GO0LrRgSAyIg==",
     "title": "Утяжелитель \"Люкс 2\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__utyazhelitel__utyazhelitel_lyuks_2.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ydtkal1fvos6iq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "weighting"
   },
@@ -729,7 +711,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuV9f0YPRgtGP0LbQtdC70LjRgtC10LvRjF9f0YPRgtGP0LbQtdC70LjRgtC10LvRjCAiZDEwIiDRgdGC0LDQu9GMICjQsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8p",
     "title": "Утяжелитель \"D10\" сталь (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__utyazhelitel__utyazhelitel_d10_stal_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-u6q_hmhwqraa9g",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuQ==",
     "type": "weighting"
   },
@@ -737,7 +719,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuV9f0YPRgtGP0LbQtdC70LjRgtC10LvRjF9f0YPRgtGP0LbQtdC70LjRgtC10LvRjCAi0LzQuNC90LgiINC00LXQvdGML9C90L7Rh9GM",
     "title": "Утяжелитель \"Мини\" день/ночь",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__utyazhelitel__utyazhelitel_mini_den-noch.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-pngdn-ap3bkofg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuQ==",
     "type": "weighting"
   },
@@ -745,7 +727,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuV9f0YPRgtGP0LbQtdC70LjRgtC10LvRjF9f0YPRgtGP0LbQtdC70LjRgtC10LvRjCAi0LvRjtC60YEgMiI=",
     "title": "Утяжелитель \"Люкс 2\"",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_kassetnyy__utyazhelitel__utyazhelitel_lyuks_2.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ydtkal1fvos6iq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBINC60LDRgdGB0LXRgtC90YvQuQ==",
     "type": "weighting"
   },
@@ -753,7 +735,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQu9GO0LrRgSAyIiAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
     "title": "Утяжелитель \"Люкс 2\" (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_lyuks_2_bazovaya_komplektaciya.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ydtkal1fvos6iq",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -761,7 +743,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICLQvNC40L3QuCIg0LTQtdC90Ywv0L3QvtGH0Yw=",
     "title": "Утяжелитель \"Мини\" день/ночь",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_mini_den-noch.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-pngdn-ap3bkofg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -769,7 +751,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5X1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMX1/Rg9GC0Y/QttC10LvQuNGC0LXQu9GMICJkMTAiINGB0YLQsNC70Yw=",
     "title": "Утяжелитель \"D10\" сталь",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks_2_kassetnyy__utyazhelitel__utyazhelitel_d10_stal.jpeg",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-u6q_hmhwqraa9g",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBIDIg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "weighting"
   },
@@ -777,7 +759,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4ICjQsdCw0LfQvtCy0LDRjyDQutC+0LzQv9C70LXQutGC0LDRhtC40Y8p",
     "title": "Боковая фиксация тросиками (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__bokovaya_fiksaciya_trosikami_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ry-swarck7njua.png",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "fixation"
   },
@@ -785,7 +767,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90LhfX9GE0LjQutGB0LDRhtC40Y9fX9C90LjQttC90Y/RjyDQvNCw0LPQvdC40YLQvdCw0Y8g0YTQuNC60YHQsNGG0LjRjyDRgtC40L8gMQ==",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug.png",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "fixation"
   },
@@ -795,42 +777,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq.jpeg"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g.jpeg"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba.jpeg"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g.jpeg"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg.png",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LzQuNC90Lg=",
     "type": "fixation"
   },
@@ -846,7 +828,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgl9f0YTQuNC60YHQsNGG0LjRj19f0LHQvtC60L7QstCw0Y8g0YTQuNC60YHQsNGG0LjRjyDRgtGA0L7RgdC40LrQsNC80Lg=",
     "title": "Боковая фиксация тросиками",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__bokovaya_fiksaciya_trosikami.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-soaks2ea0i1imw.png",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "fixation"
   },
@@ -854,7 +836,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgl9f0YTQuNC60YHQsNGG0LjRj19f0L3QuNC20L3Rj9GPINC80LDQs9C90LjRgtC90LDRjyDRhNC40LrRgdCw0YbQuNGPINGC0LjQvyAx",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "fixation"
   },
@@ -864,42 +846,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__standart__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0YHRgtCw0L3QtNCw0YDRgg==",
     "type": "fixation"
   },
@@ -915,7 +897,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YFfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4",
     "title": "Боковая фиксация тросиками",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__bokovaya_fiksaciya_trosikami.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-soaks2ea0i1imw",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "fixation"
   },
@@ -923,7 +905,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YFfX9GE0LjQutGB0LDRhtC40Y9fX9C90LjQttC90Y/RjyDQvNCw0LPQvdC40YLQvdCw0Y8g0YTQuNC60YHQsNGG0LjRjyDRgtC40L8gMQ==",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "fixation"
   },
@@ -933,42 +915,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YE=",
     "type": "fixation"
   },
@@ -984,7 +966,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5X1/RhNC40LrRgdCw0YbQuNGPX1/QsdC+0LrQvtCy0LDRjyDRhNC40LrRgdCw0YbQuNGPINGC0YDQvtGB0LjQutCw0LzQuA==",
     "title": "Боковая фиксация тросиками",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__bokovaya_fiksaciya_trosikami.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-soaks2ea0i1imw",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "fixation"
   },
@@ -992,7 +974,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5X1/RhNC40LrRgdCw0YbQuNGPX1/QvdC40LbQvdGP0Y8g0LzQsNCz0L3QuNGC0L3QsNGPINGE0LjQutGB0LDRhtC40Y8g0YLQuNC/IDE=",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "fixation"
   },
@@ -1002,42 +984,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEg0LrQsNGB0YHQtdGC0L3Ri9C5",
     "type": "fixation"
   },
@@ -1053,7 +1035,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0LlfX9GE0LjQutGB0LDRhtC40Y9fX9C90LjQttC90Y/RjyDQvNCw0LPQvdC40YLQvdCw0Y8g0YTQuNC60YHQsNGG0LjRjyDRgtC40L8gMQ==",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "fixation"
   },
@@ -1063,42 +1045,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_2_kassetnyy__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgMiDQutCw0YHRgdC10YLQvdGL0Lk=",
     "type": "fixation"
   },
@@ -1114,7 +1096,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTBfX9GE0LjQutGB0LDRhtC40Y9fX9Cx0L7QutC+0LLQsNGPINGE0LjQutGB0LDRhtC40Y8g0YLRgNC+0YHQuNC60LDQvNC4",
     "title": "Боковая фиксация тросиками",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__bokovaya_fiksaciya_trosikami.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-soaks2ea0i1imw",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "fixation"
   },
@@ -1122,7 +1104,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTBfX9GE0LjQutGB0LDRhtC40Y9fX9C90LjQttC90Y/RjyDQvNCw0LPQvdC40YLQvdCw0Y8g0YTQuNC60YHQsNGG0LjRjyDRgtC40L8gMQ==",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "fixation"
   },
@@ -1132,42 +1114,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_cepochnoe__lyuks_50__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0YbQtdC/0L7Rh9C90L7QtV9f0LvRjtC60YEgNTA=",
     "type": "fixation"
   },
@@ -1175,7 +1157,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/RhNC40LrRgdCw0YbQuNGPX1/QsdC+0LrQvtCy0LDRjyDRhNC40LrRgdCw0YbQuNGPINC70LXRgdC60L7QuSAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
     "title": "Боковая фиксация леской (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__bokovaya_fiksaciya_leskoy_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ry-swarck7njua",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "fixation"
   },
@@ -1183,7 +1165,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4X1/RhNC40LrRgdCw0YbQuNGPX1/QvdC40LbQvdGP0Y8g0LzQsNCz0L3QuNGC0L3QsNGPINGE0LjQutGB0LDRhtC40Y8g0YLQuNC/IDE=",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "fixation"
   },
@@ -1193,42 +1175,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_den-noch__mini__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C80LjQvdC4",
     "type": "fixation"
   },
@@ -1236,7 +1218,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBX1/RhNC40LrRgdCw0YbQuNGPX1/QsdC+0LrQvtCy0LDRjyDRhNC40LrRgdCw0YbQuNGPINGC0YDQvtGB0LjQutCw0LzQuCAo0LHQsNC30L7QstCw0Y8g0LrQvtC80L/Qu9C10LrRgtCw0YbQuNGPKQ==",
     "title": "Боковая фиксация тросиками (базовая комплектация)",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__bokovaya_fiksaciya_trosikami_bazovaya_komplektaciya.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-ry-swarck7njua",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "fixation"
   },
@@ -1244,7 +1226,7 @@
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGBX1/RhNC40LrRgdCw0YbQuNGPX1/QvdC40LbQvdGP0Y8g0LzQsNCz0L3QuNGC0L3QsNGPINGE0LjQutGB0LDRhtC40Y8g0YLQuNC/IDE=",
     "title": "Нижняя магнитная фиксация Тип 1",
     "colorList": [],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_1.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-61f5oeozmwgfug",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "fixation"
   },
@@ -1254,42 +1236,42 @@
     "colorList": [
       {
         "title": "Белый",
-        "image": "_nuxt/img/white_6.jpg"
+        "image": ""
       },
       {
         "title": "Ваниль",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__vanil.jpeg"
+        "image": ""
       },
       {
         "title": "Серый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__seryy.jpeg"
+        "image": ""
       },
       {
         "title": "Антрацит",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__antracit.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-tigfyxupucinwq"
       },
       {
         "title": "Черный",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__chernyy.jpeg"
+        "image": ""
       },
       {
         "title": "Бронза",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bronza.jpeg"
+        "image": ""
       },
       {
         "title": "Бежевый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__bezhevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-mgxsxqcte2715g"
       },
       {
         "title": "Коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-uageufapncp5ba"
       },
       {
         "title": "Темно-коричневый",
-        "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2__temno-korichnevyy.jpeg"
+        "image": "_nuxt/img/https:--disk_yandex_ru-i-ydfx6jgylotu6g"
       }
     ],
-    "image": "_nuxt/img/upravlenie_den-noch__lyuks__fiksaciya__nizhnyaya_magnitnaya_fiksaciya_tip_2.png",
+    "image": "_nuxt/img/https:--disk_yandex_ru-i-m_vqtbi-b02jpg",
     "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0LTQtdC90Ywv0L3QvtGH0YxfX9C70Y7QutGB",
     "type": "fixation"
   }

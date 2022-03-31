@@ -10,6 +10,7 @@ import axios from "axios";
 import IMAGE_DICT from "../data/images";
 // @ts-ignore
 import tranlitNpm from 'translit-npm'
+import { generateHash } from "./crypt";
 
 class GoogleSpreadSheets {
   private auth: GoogleAuth;
@@ -23,8 +24,20 @@ class GoogleSpreadSheets {
   extraSystemElements: ExtraSystemElement[] = []
   classicFabrics: Fabric[] = []
   dayNightFabrics: Fabric[] = []
-  errorImages: {
+  errorImageDict: {
     [key: string]: string
+  } = {}
+  extraImageDict: {
+    [key: string]:  string
+  } = {}
+  imageDict: {
+    [key: string]: {
+      url: string,
+      downloadUrl: string,
+      extension: string,
+      fileName: string,
+      path: string
+    }
   } = {}
 
   constructor() {
@@ -32,13 +45,24 @@ class GoogleSpreadSheets {
       keyFile: "keys.json",
       scopes: "https://www.googleapis.com/auth/spreadsheets",
     });
+
+    if (fs.existsSync('metadata/images.json')) {
+      this.imageDict = JSON.parse(fs.readFileSync('metadata/images.json', { encoding: 'utf-8'}))
+    }
+    if (fs.existsSync('metadata/images_extra.json')) {
+      this.extraImageDict = JSON.parse(fs.readFileSync('metadata/images_extra.json', { encoding: 'utf-8' }))
+    }
   }
 
   private async downloadImage(title: string, yandexDiskUrl: string, isSuccessLog?: boolean): Promise<string | undefined> {
-    let url = yandexDiskUrl
-    if (!url) return undefined
-    if (yandexDiskUrl.includes('disk')) url = `https://getfile.dokpub.com/yandex/get/${yandexDiskUrl}`
-    const fileName = translit.transliterate(title.toLocaleLowerCase(), {
+    let downloadUrl = yandexDiskUrl
+    if (!downloadUrl) return undefined
+
+    // Format url for downloading
+    if (yandexDiskUrl.includes('disk')) downloadUrl = `https://getfile.dokpub.com/yandex/get/${yandexDiskUrl}`
+
+    // Filename without extension and extra symbols, for using as a key and filename
+    const formattedFileName = translit.transliterate(yandexDiskUrl.toLocaleLowerCase(), {
       trim: true,
       replaceAfter: {
         ' ': '_',
@@ -50,42 +74,26 @@ class GoogleSpreadSheets {
         ')': ''
       }
     })
-    const fileNameWithUrl = `${fileName}___${tranlitNpm.translitForUrl(yandexDiskUrl.replace(/\//gi, '_'))}`
 
-
-    const existingFileName = fs.readdirSync('metadata/parsed_images').find(el => el.split('.')[0] === fileName)
-    if (existingFileName) {
-      // fs.renameSync(
-      //   `metadata/parsed_images/${fileName}`,
-      //   `metadata/parsed_images/${fileNameWithUrl}.${existingFileName.split('.')[1]}`
-      // )
-      // console.log();
-      return `_nuxt/img/${existingFileName}`
-    }
-
-    if (IMAGE_DICT[yandexDiskUrl]) return `_nuxt/img/${IMAGE_DICT[yandexDiskUrl]}`
-
-    let uploadPath = ''
-    let extension = ''
+    // If image already handled in runtime
+    if (this.imageDict[formattedFileName] && yandexDiskUrl === this.imageDict[formattedFileName].url) return `_nuxt/img/${this.imageDict[formattedFileName].fileName}`
+    // If extra image already handled in runtime
+    if (this.extraImageDict[yandexDiskUrl]) return `_nuxt/img/${this.extraImageDict[formattedFileName]}`
 
     try {
+      // Download image
       const response = await axios({
-        url,
+        url: downloadUrl,
         method: 'GET',
         responseType: 'stream'
       })
-
-      extension = mime.extension(response.headers['content-type']) || 'png'
-      uploadPath = `metadata/parsed_images/${fileName}.${extension}`
-
-      if (fs.existsSync(uploadPath)) {
-        console.log(`File already exists: ${uploadPath}`);
-        return uploadPath
-      };
+      // Image extension
+      const extension = mime.extension(response.headers['content-type']) || 'png'
+      // Uplaod path for saving new file      
+      const uploadPath = `metadata/images/${formattedFileName}.${extension}`
+      // Writer for new file
       const writer = fs.createWriteStream(uploadPath)
-
       response.data.pipe(writer)
-
       await new Promise((resolve, reject) => {
         writer.on('finish', () => {
           // if (isSuccessLog) console.log(`IMAGE - ${title || 'N/A'}: SUCCESS.  URL: ${yandexDiskUrl}.  New URL: ${uploadPath}`)
@@ -95,13 +103,24 @@ class GoogleSpreadSheets {
           reject()
         })
       })
-    } catch (e) {
-      console.log(url)
-      if (!this.errorImages[yandexDiskUrl]) this.errorImages[yandexDiskUrl] = ''
-      console.error(`IMAGE - ${title || 'N/A'}: ERROR.  URL: ${yandexDiskUrl}`)
-    }
+      console.log(`${title}: success`);
 
-    return !!uploadPath ? `_nuxt/img/${fileName}.${extension}` : undefined
+      this.imageDict[formattedFileName] = {
+        url: yandexDiskUrl,
+        downloadUrl: downloadUrl,
+        extension: extension,
+        fileName: formattedFileName,
+        path: uploadPath
+      }
+      return  `_nuxt/img/${formattedFileName}.${extension}`
+    } catch (e) {
+      console.log(e);
+      // If error write to query for handling
+      if (!this.errorImageDict[yandexDiskUrl]) this.errorImageDict[yandexDiskUrl] = ''
+
+      console.error(`IMAGE - ${title || 'N/A'}: ERROR.  URL: ${yandexDiskUrl}`)
+      return undefined
+    }
   }
 
   private async generateImageUrl(title: string, url: string) {
@@ -186,10 +205,16 @@ class GoogleSpreadSheets {
     console.log('Extra system elements: success');
 
     fs.writeFileSync(
-      './metadata/error_images.json',
-      JSON.stringify(this.errorImages, null, 2)
+      './metadata/images.json',
+      JSON.stringify(this.imageDict, null, 2)
     )
-    console.log(`Amount of failed images: ${Object.keys(this.errorImages).length}`);
+    console.log(`Images: ${Object.keys(this.imageDict).length}`);
+
+    fs.writeFileSync(
+      './metadata/images_extra.json',
+      JSON.stringify(this.extraImageDict, null, 2)
+    )
+    console.log(`Extra images: ${Object.keys(this.extraImageDict).length}`);
 
     fs.writeFileSync('./metadata/fabrics.json', JSON.stringify([
       ...this.classicFabrics,
@@ -208,9 +233,14 @@ class GoogleSpreadSheets {
         ...this.classicFabrics,
         ...this.dayNightFabrics
       ],
-
     }, null, 2))
     console.log('Full data: success');
+
+    fs.writeFileSync(
+      './metadata/images_error.json',
+      JSON.stringify(this.errorImageDict, null, 2)
+    )
+    console.log(`Amount of failed images: ${Object.keys(this.errorImageDict).length}`);
   }
 
 
@@ -437,7 +467,7 @@ class GoogleSpreadSheets {
       if (!systemElement) continue
       const systemElementTitle = `${this.generateSystemElementTitle(item[0], item[1], item[2])}__${item[18]}`
       // if (!item[18] || !item[19] || !item[4] || !item[6]) return
-      const newSystemElement: any = {
+      const newSystemElementColor: any = {
         title: item[18],
         image: await this.generateImageUrl(`${systemElementTitle}`, item[19]),
         isPlastic: item[20].toLowerCase().includes('пластик'),
@@ -446,10 +476,10 @@ class GoogleSpreadSheets {
         rightMainImage: await this.generateImageUrl(`${systemElementTitle}__right`, item[6]),
       }
       if (item[30]) {
-        newSystemElement.layer = item[30]
+        newSystemElementColor.layer = item[30]
       }
 
-      systemElement.colorList.push(newSystemElement)
+      systemElement.colorList.push(newSystemElementColor)
     }
 
     return systemElements as SystemElement[]
@@ -507,15 +537,15 @@ class GoogleSpreadSheets {
       const extraSystemElement = extraSystemElements.find(el => el?.id === this.generateExtraSystemElementId(item[0], item[1], item[2], item[3]))
       if (!extraSystemElement) continue
       const extraSystemElementColorTitle = `${this.generateExtraSystemElementTitle(item[0], item[1], item[2], item[3])}__${item[18]}`
-      const newExtraSystemElement: any = {
+      const newExtraSystemElementColor: any = {
         title: item[18],
         image: await this.generateImageUrl(extraSystemElementColorTitle, item[19]) || '',
         mainImage: await this.generateImageUrl(`${extraSystemElementColorTitle}__main`, item[4])
       }
       if (item[30]) {
-        newExtraSystemElement.layer = item[30]
+        newExtraSystemElementColor.layer = item[30]
       }
-      extraSystemElement.colorList.push(newExtraSystemElement)
+      extraSystemElement.colorList.push(newExtraSystemElementColor)
     }
 
 
