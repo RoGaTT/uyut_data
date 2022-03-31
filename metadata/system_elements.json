@@ -256,6 +256,54 @@
     "isMain": true
   },
   {
+    "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0LlfX9GG0LLQtdGCINC80LXRhdCw0L3QuNC30LzQsA==",
+    "title": "Цвет механизма",
+    "colorList": [
+      {
+        "title": "Белый",
+        "image": "_nuxt/img/9a902c94-f095-494a-b5ec-ad34fbdd6f43.jpeg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/fbbdaca8-5c14-4be2-9655-52322f1b01b8.png",
+        "layer": "Система (3 слой)"
+      },
+      {
+        "title": "Серый",
+        "image": "_nuxt/img/fe88a69d-a08e-4edb-ba7d-250fe7f81ddf.jpeg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/9c04e164-bf34-4f36-b98f-f49877d2bac6.png",
+        "layer": "Система (3 слой)"
+      },
+      {
+        "title": "Светло-бежевый",
+        "image": "_nuxt/img/696ae28a-6d78-4f6b-8f40-fe8666ad9062.jpeg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/921bd8c8-85a3-4604-bd4b-805bb73abeac.png",
+        "layer": "Система (3 слой)"
+      },
+      {
+        "title": "Бежевый",
+        "image": "_nuxt/img/4889c0b9-625d-45dc-80e4-23f00690e3fa.jpeg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/6302e63d-8315-484a-9571-06882e35ac66.png",
+        "layer": "Система (3 слой)"
+      },
+      {
+        "title": "Темно-коричневый",
+        "image": "_nuxt/img/e527b765-2c5b-409d-8fc6-171ef31782c8.jpeg",
+        "isPlastic": false,
+        "isMetallic": false,
+        "rightMainImage": "_nuxt/img/f4cd5686-74a7-484c-b679-0d6f509e29c0.png",
+        "layer": "Система (3 слой)"
+      }
+    ],
+    "system": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQv9GA0YPQttC40L3QvdGL0Lk=",
+    "isMain": true
+  },
+  {
     "id": "0YPQv9GA0LDQstC70LXQvdC40LUg0L/RgNGD0LbQuNC90L3QvtC1X1/Qu9GO0LrRgSDQutCw0YHRgdC10YLQvdGL0Lkg0L/RgNGD0LbQuNC90L3Ri9C5X1/RhtCy0LXRgiDQvNC10YXQsNC90LjQt9C80LA=",
     "title": "Цвет механизма",
     "colorList": [
